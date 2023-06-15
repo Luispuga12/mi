@@ -1,1 +1,529 @@
-https://ottbk.cdn.iutpcdn.com/bpk-tv/tp1546/clear/index.m3u8
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Canal 2 de México (Canal Las Estrellas - XEW) ">
+    <display-name lang="es">102 CANAL DE LAS ESTRELLAS</display-name>
+<display-name lang="es">102 CANAL DE LAS Estrellas 2</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal 5 de México (XHGC)">
+    <display-name lang="es">105 Cinco</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal 9 de México (XEQ-TDT)">
+    <display-name lang="es">Nueve</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Once TV - México (XEIPN-TV)">
+    <display-name lang="es">111 ONCE</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal 14 de México">
+    <display-name lang="es">114 Canal 14</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal 22 de México">
+    <display-name lang="es">122 Canal 22</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal A&amp;E (México)">
+    <display-name lang="es">230 A&amp;E</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal AMC (Panregional)">
+    <display-name lang="es">AMC</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Animal Planet (México)">
+    <display-name lang="es">ANIMAL Planet</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal AXN (México)">
+    <display-name lang="es">222 AXN</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Boomerang (México)">
+    <display-name lang="es">Boomerang</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Cartoon Network (México)">
+    <display-name lang="es">23 - 290 CartoonNetwork</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Cinecanal (México)">
+    <display-name lang="es">378 CineCanal O</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Cinemax (México)">
+    <display-name lang="es">CINEMAX</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Comedy Central (México)">
+    <display-name lang="es">21 - 252 COMEDY CENTRAL</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal El Heraldo TV (México)">
+    <display-name lang="es">Heraldo</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Elgourmet">
+    <display-name lang="es">EL GOURMET</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal ESPN (México)">
+    <display-name lang="es">342 ESPN</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal ESPN 2 México">
+    <display-name lang="es">338 ESPN 2</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Estrella TV ">
+    <display-name lang="es">ESTRELLA TV</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Eurochannel">
+    <display-name lang="es">EURO Channel</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Europa Europa">
+    <display-name lang="es">Europa HD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Exa TV">
+    <display-name lang="es">154 EXA TV</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Excelsior TV">
+    <display-name lang="es">Excélsior TV</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Film &amp; Arts">
+    <display-name lang="es">384 Films</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Foro TV">
+    <display-name lang="es">Foro Tv</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Glitz">
+    <display-name lang="es">Glitz</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Golden">
+    <display-name lang="es">GOLDEN</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Golden Edge">
+    <display-name lang="es">GOLDEN EDGE</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Golden Plus">
+    <display-name lang="es">GOLDEN PLUS</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+<channel id="Canal Golden Premier">
+    <display-name lang="es">GOLDEN PREMIER</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Golden Premier 2">
+    <display-name lang="es">GOLDEN Premier 2</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal HBO">
+    <display-name lang="es">HBO HD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal HBO 2 (México)">
+    <display-name lang="es">HBO2 HD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal HBO Mundi">
+    <display-name lang="es">HBO MUNDI</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal HBO Pop">
+    <display-name lang="es">HBO Pop HD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal HBO Xtreme">
+    <display-name lang="es">HBO Xtreme</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal History (México)">
+    <display-name lang="es">318 History</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal History 2 (México)">
+    <display-name lang="es">320 History2</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal HTV">
+    <display-name lang="es">HTV</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal I.Sat">
+    <display-name lang="es">I-SAT</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal ID (Investigation Discovery) México">
+    <display-name lang="es">234 Investigation Discovery</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Ingenio TV (México)">
+    <display-name lang="es">306 IngenioTV</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal FX (México)">
+    <display-name lang="es">224 FX</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Justicia TV (México)">
+    <display-name lang="es">360 Judicial</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Lifetime (México)">
+    <display-name lang="es">242 Lifetime</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal National Geographic (México)">
+    <display-name lang="es">312 NatGeo</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Paramount Channel (México)">
+    <display-name lang="es">388 Paramount</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Space (México)">
+    <display-name lang="es">226 Space MX</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Telemundo (México)">
+    <display-name lang="es">TELEMUNDO</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal TLNovelas (México)">
+    <display-name lang="es">TELENOVELAS</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal TUDN (México)">
+    <display-name lang="es">TUDN</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal TVC (México)">
+    <display-name lang="es">358 TVC</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Universal TV (México)">
+    <display-name lang="es">206 Universal</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Warner TV (México)">
+    <display-name lang="es">210 WB</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Telefórmula">
+    <display-name lang="es">Teleformula</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Azteca Uno">
+    <display-name lang="es">101 Uno</display-name>
+<display-name lang="es">AZTECA UNO</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Antena 3">
+    <display-name lang="es">Antena 3</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal 4 de Guadalajara (México)">
+    <display-name lang="es">Tv 4</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Azteca 7  (México)">
+    <display-name lang="es">107 Siete</display-name>
+<display-name lang="es">AZTECA 7</display-name>
+<display-name lang="es">AZTECA 7.2</display-name>
+<display-name lang="es">AZ 7</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+<channel id="Canal TN23">
+    <display-name lang="es">TN23</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal ADN 40">
+    <display-name lang="es">ADN40</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal ¡HOLA! TV">
+    <display-name lang="es">246 HOLA</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal 24 Horas (TVE)">
+    <display-name lang="es">Tve</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal a+">
+    <display-name lang="es">A+</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Adrenalina Sports Network">
+    <display-name lang="es">Adrenalina Sport Network</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Agrotendencia TV">
+    <display-name lang="es">AGROTENDENCIA</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Aprende">
+    <display-name lang="es">304 AprendeTV2</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Atreseries (Internacional)">
+    <display-name lang="es">A3SERIES</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal AYM Sports">
+    <display-name lang="es">AYM HD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal AZ Cinema">
+    <display-name lang="es">AZTECA CINEMA</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal AZ Clic!">
+    <display-name lang="es">AZTECA CLIC</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal AZ Corazón">
+    <display-name lang="es">AZ CORAZON</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal AZ Mundo">
+    <display-name lang="es">AZTECA MUNDO</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Baby TV (Latinoamérica)">
+    <display-name lang="es">Baby tv</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal BabyFirst TV">
+    <display-name lang="es">Baby First</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Bandamax">
+    <display-name lang="es">BANDAMAX</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal BitMe">
+    <display-name lang="es">BITME</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Caracol Internacional">
+    <display-name lang="es">Caracol</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Cine Sony">
+    <display-name lang="es">Sony Movies HD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Cinelatino">
+    <display-name lang="es">162 CINELATINO</display-name>
+<display-name lang="es">162 Cine Latino</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Claro Sports">
+    <display-name lang="es">336 Claro Sport</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Cinema Dinamita">
+    <display-name lang="es">Cinema Dinamita</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal CNN en Español">
+    <display-name lang="es">350 CNN LAT</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal CNN Internacional">
+    <display-name lang="es">350 CNN US</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal De Película">
+    <display-name lang="es">DE PELICULA</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal DHE">
+    <display-name lang="es">DHE HD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Discovery Channel (México)">
+    <display-name lang="es">308 Discovery</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Discovery Home &amp; Health (México)">
+    <display-name lang="es">29-236 DH&amp;H</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Discovery Kids (México)">
+    <display-name lang="es">25-292 Discovery kids</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+<channel id="Canal Discovery Science (Latinoamérica)">
+    <display-name lang="es">DISCOVERY SCIENCE</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Discovery Theater (Latinoamérica)">
+    <display-name lang="es">Discovery Theater HD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Discovery Turbo (Latinoamérica)">
+    <display-name lang="es">DISCOVERY TURBO</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Discovery World Latinoamérica">
+    <display-name lang="es">Discovery World HD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Disney Channel">
+    <display-name lang="es">DISNEY CHANNEL</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Disney Junior">
+    <display-name lang="es">282 Disney JR</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Distrito Comedia">
+    <display-name lang="es">Distrito Comedia</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal DW (Latinoamérica)">
+    <display-name lang="es">DW HD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal E! Entertainment Television (Panregional)">
+    <display-name lang="es">248 E!</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Fox">
+    <display-name lang="es">STAR CH</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Fox Deportes">
+    <display-name lang="es">FOX SPORTS</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Más Chic Latinoamérica">
+    <display-name lang="es">MAS CHIC</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal MC">
+    <display-name lang="es">158 MC</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Mexiquense TV">
+    <display-name lang="es">MEXIQUENCE</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Milenio TV">
+    <display-name lang="es">356 Milenio</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal MTV (Latinoamérica)">
+    <display-name lang="es">MTV</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal MTV Hits">
+    <display-name lang="es">MTV Hits</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Multipremier">
+    <display-name lang="es">160 MultiPremiere</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Nick Jr. (Latinoamérica)">
+    <display-name lang="es">Nick Jr</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Nickelodeon (Panregional)">
+    <display-name lang="es">27-286 NICK</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Pasiones (Latinoamérica)">
+    <display-name lang="es">Pasiones HD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Studio Universal">
+    <display-name lang="es">386 StudioUniversal</display-name>
+<display-name lang="es">386 StudioUniversal HD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Sun Channel">
+    <display-name lang="es">Sun Channel</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal SyFy">
+    <display-name lang="es">SYFY</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal TBS veryfunny Latinoamérica">
+    <display-name lang="es">250 TBS</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal TCM (España)">
+    <display-name lang="es">TCM</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Telehit">
+    <display-name lang="es">Telehit</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Telehit Plus">
+    <display-name lang="es">TELEHIT PLUS</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal TLC (México)">
+    <display-name lang="es">240 TLC</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal TNT">
+    <display-name lang="es">31-370 TNT</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+ <channel id="Canal TNT Series">
+    <display-name lang="es">30-214 TNTSE</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Tooncast">
+    <display-name lang="es">Tooncast</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal truTV">
+    <display-name lang="es">Trutv</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal TVUNAM">
+    <display-name lang="es">120 UNAM</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Unicable (México)">
+    <display-name lang="es">UNICABLE</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal WOBI">
+    <display-name lang="es">WOBI</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal ZooMoo Latinoamérica">
+    <display-name lang="es">ZooMoo</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal BBC World">
+    <display-name lang="es">BBC US</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Sony Centro">
+    <display-name lang="es">208 SONY</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Golf Channel">
+    <display-name lang="es">Golf</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
