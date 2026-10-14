@@ -1,182 +1,128 @@
 #EXTM3U url-tvg = "https://pastebin.com/raw/EDTfejrU"
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Otros Canales" tvg-logo="", Amx noticias
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
-#EXTINF:-1 tvg-id="Antena 3" tvg-name="" group-title="Otros Canales" tvg-
-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/1200px-
+#EXTINF:-1 tvg-id="Antena 3" tvg-name="" group-title="Otros Canales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/1200px-
 Antena_3_%282017%29.svg.png", Antena 3
 http://streamsy.online:2999/happy2024/newyear/564
-#EXTINF:-1 tvg-id="TRU TV" tvg-name="" group-title="Otros Canales" tvg-
-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/TruTV_logo_2014.png", Trutv
+#EXTINF:-1 tvg-id="TRU TV" tvg-name="" group-title="Otros Canales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/TruTV_logo_2014.png", Trutv
 http://181.78.105.146:8800/play/a03y
 #EXTINF:-1 tvg-id="Cinema Dinamitag" tvg-name="" group-title="Infantiles" tvg-logo="" , VH1
 http://streamsy.online:2999/happy2024/newyear/625
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Otros Canales" tvg-
-logo="https://www.tvcuatro.com/logo%201024.png", Tv 4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Otros Canales" tvg-logo="https://www.tvcuatro.com/logo%201024.png", Tv 4
 https://5f1af61612fb5.streamlock.net/tv4/tv4.smil/.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Otros Canales" tvg-logo="", B15
 https://60ed5b6d0df78.streamlock.net:1936/envio2/envio2/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Otros Canales" tvg-
-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Jalisco-TV_logotype.png", Jalisco tv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Otros Canales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Jalisco-TV_logotype.png", Jalisco tv
 https://5fa5de1a545ae.streamlock.net/sisjalisciense/sisjalisciense/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Otros Canales" tvg-logo="", RTQ
 https://wms.tecnoxia.com/rytqrolive/rytqrolive/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Otros Canales" tvg-logo="", Canal8
 https://ssh101.bozztv.com/ssh101/ochotv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Otros Canales" tvg-
-logo="https://directostv.teleame.com/wp-content/uploads/2020/04/Heraldo-TV-Mexico-en-vivo-Online.png",
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Otros Canales" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/04/Heraldo-TV-Mexico-en-vivo-Online.png",
 Heraldo
 https://www.dailymotion.com/cdn/live/video/x88epch.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Otros Canales" tvg-
-logo="https://static.wixstatic.com/media/3b9c3c_1361a1ebc8e84d89bfd780d650067c0d~mv2.png/v1/fit/w_2500
-,h_1330,al_c/3b9c3c_1361a1ebc8e84d89bfd780d650067c0d~mv2.png", VB Media Tv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Otros Canales" tvg-logo="https://static.wixstatic.com/media/3b9c3c_1361a1ebc8e84d89bfd780d650067c0d~mv2.png/v1/fit/w_2500,h_1330,al_c/3b9c3c_1361a1ebc8e84d89bfd780d650067c0d~mv2.png", VB Media Tv
 https://capomo01-enitv.eninetworks.com/locales_vbmedia_publico/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Otros Canales" tvg-
-logo="https://cdn.mitvstatic.com/channels/cl_enlace-tbn_m.png", Enlace
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Otros Canales" tvg-logo="https://cdn.mitvstatic.com/channels/cl_enlace-tbn_m.png", Enlace
 https://11554-1.b.cdn13.com/EnlaceTV/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="LOVE NATURE" tvg-name="" group-title="Otros Canales" tvg-logo="", LOVE NATURE
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3363
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Otros Canales " tvg-logo="https://lh3.googleusercontent.com/-VFv60dsQpBk/XzxF-
 Z6Hp3I/AAAAAAAA4mY/2Kco45v6eekfBWIEtouwbV5ZL8WPV2YcgCK8BGAsYHg/s0/2020-08-18.png", Multimedios Laguna
 https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Otros Canales" tvg-
-logo="https://lh3.googleusercontent.com/-VFv60dsQpBk/XzxF-
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Otros Canales" tvg-logo="https://lh3.googleusercontent.com/-VFv60dsQpBk/XzxF-
 Z6Hp3I/AAAAAAAA4mY/2Kco45v6eekfBWIEtouwbV5ZL8WPV2YcgCK8BGAsYHg/s0/2020-08-18.png", Multimedios
 Guadalajara
 https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="TELEFORMULA" tvg-name="" group-title="Otros Canales" tvg-
-logo="https://selectra.mx/sites/selectra.mx/files/images/logos/teleformula-350x183.png", Teleformula 
+#EXTINF:-1 tvg-id="TELEFORMULA" tvg-name="" group-title="Otros Canales" tvg-logo="https://selectra.mx/sites/selectra.mx/files/images/logos/teleformula-350x183.png", Teleformula 
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8?
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Otros Canales" tvg-
-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/I.Sat_logo.svg/1280px-
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Otros Canales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/I.Sat_logo.svg/1280px-
 I.Sat_logo.svg.png", I-SAT 
 http://181.78.105.146:8800/play/a06v
-#EXTINF:-1 tvg-id="SEIS +" tvg-name="" group-title="Otros Canales" tvg-
-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/1200px
--Multimedios_Canal_Seis_Logo.svg.png", Multimedios CDMX
+#EXTINF:-1 tvg-id="SEIS +" tvg-name="" group-title="Otros Canales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/1200px-Multimedios_Canal_Seis_Logo.svg.png", Multimedios CDMX
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
-#EXTINF:-1 tvg-id="TELEMUNDO" tvg-name="" group-title="Otros Canales" tvg-
-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png", TELEMUNDO
+#EXTINF:-1 tvg-id="TELEMUNDO" tvg-name="" group-title="Otros Canales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png", TELEMUNDO
 http://148.230.149.45:1021/play/a086/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Otros Canales" tvg-logo="", Kanal D Drama
 http://148.230.149.45:1021/play/a0a4/index.m3u8
 #EXTINF:-1 tvg-id="NUEVE" tvg-name="" group-title="Otros Canales" tvg-logo="", Nueve 
 http://aanax.com:8080/stadnik/6a627b52a9/298919
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Otros Canales" tvg-
-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tvmasver.jpg", TV Mas
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Otros Canales" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tvmasver.jpg", TV Mas
 https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
-#EXTINF:-1 tvg-id="AZTECA 7" tvg-name="" group-title="Otros Canales" tvg-
-logo="https://blogger.googleusercontent.com/img/a/AVvXsEj0OlWEiN3Keit4qXTyx-
-kd9zzvBnUK4rjCxcNXJJBG7yYqe42pa8Smgdtly89C4SHqXJeN4vWrsrP5ZFG9SfSbPwbICL_oIRby4YhvZn6_3U3Ft0U81FHgL0qT
-nStAoZw9x2bO-eIr32XnBDwayXh4YpOtW3Z9hL1_CoGPbALXRm-FVFPjLlR_WRiW0g=s231", AZ 7
+#EXTINF:-1 tvg-id="AZTECA 7" tvg-name="" group-title="Otros Canales" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEj0OlWEiN3Keit4qXTyx-kd9zzvBnUK4rjCxcNXJJBG7yYqe42pa8Smgdtly89C4SHqXJeN4vWrsrP5ZFG9SfSbPwbICL_oIRby4YhvZn6_3U3Ft0U81FHgL0qTnStAoZw9x2bO-eIr32XnBDwayXh4YpOtW3Z9hL1_CoGPbALXRm-FVFPjLlR_WRiW0g=s231", AZ 7
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Otros Canales" tvg-
-logo="https://lh3.googleusercontent.com/-VFv60dsQpBk/XzxF-
-Z6Hp3I/AAAAAAAA4mY/2Kco45v6eekfBWIEtouwbV5ZL8WPV2YcgCK8BGAsYHg/s0/2020-08-18.png", MULTIMEDIOS MTY
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Otros Canales" tvg-logo="https://lh3.googleusercontent.com/-VFv60dsQpBk/XzxF-Z6Hp3I/AAAAAAAA4mY/2Kco45v6eekfBWIEtouwbV5ZL8WPV2YcgCK8BGAsYHg/s0/2020-08-18.png", MULTIMEDIOS MTY
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Otros Canales" tvg-
-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/TVE.svg/1200px-TVE.svg.png", Tve 
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Otros Canales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/TVE.svg/1200px-TVE.svg.png", Tve 
 http://pe.shortgod.com/colaloca21/tv7.php?id=26721
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Otros Canales" tvg-
-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Logotipo_de_Caracol_Televisi%C3%B3n_Corporat
-ivo.png", Caracol
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Otros Canales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Logotipo_de_Caracol_Televisi%C3%B3n_Corporativo.png", Caracol
 http://45.68.35.218:4001/play/a01y/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Otros Canales" tvg-
-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/1280px-
-Galavision_Logo_2013.svg.png", Galavisión
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Otros Canales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/1280px-Galavision_Logo_2013.svg.png", Galavisión
 http://167.114.156.136:25461/INFINITV/ZX89NM22/174
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Otros Canales" tvg-
-logo="https://energeek.cl/custom/templates/Lithium/uploads/energeeklogo-1.png", ENERGEEK
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Otros Canales" tvg-logo="https://energeek.cl/custom/templates/Lithium/uploads/energeeklogo-1.png", ENERGEEK
 https://stream.wifispeed.cl:3103/live/energeek1live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Otros Canales" tvg-
-logo="https://drive.google.com/file/d/1NZRqe2hR3qYkjJ5HJI9lJy7edtMS8MA-/view?usp=sharing", ENERGEEK 2
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Otros Canales" tvg-logo="https://drive.google.com/file/d/1NZRqe2hR3qYkjJ5HJI9lJy7edtMS8MA-/view?usp=sharing", ENERGEEK 2
 https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Otros Canales" tvg-
-logo="https://drive.google.com/file/d/1Axj9qz_QQBzdI2YMUChl7uiH_ip_z1_9/view?usp=sharing", ENERGEEK 3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Otros Canales" tvg-logo="https://drive.google.com/file/d/1Axj9qz_QQBzdI2YMUChl7uiH_ip_z1_9/view?usp=sharing", ENERGEEK 3
 https://stream.wifispeed.cl:3852/live/energeeklive.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Otros Canales" tvg-
-logo="https://i.imgur.com/CBUf3K1.png", LATINO KIDS
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Otros Canales" tvg-logo="https://i.imgur.com/CBUf3K1.png", LATINO KIDS
 https://6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8
-#EXTINF:-1 tvg-id="Televisión Mexiquense" tvg-name="" group-title="Otros Canales" tvg-
-logo="https://i.imgur.com/iVfzakA.png", MEXIQUENCE
+#EXTINF:-1 tvg-id="Televisión Mexiquense" tvg-name="" group-title="Otros Canales" tvg-logo="https://i.imgur.com/iVfzakA.png", MEXIQUENCE
 https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Otros Canales" tvg-logo="https://televida.org.do/wp-
-content/uploads/2018/02/LOGOS_TELEVIDA_Movil-01.png", Televida RD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Otros Canales" tvg-logo="https://televida.org.do/wp-content/uploads/2018/02/LOGOS_TELEVIDA_Movil-01.png", Televida RD
 http://168.228.194.33:48001/play/a02s/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Otros Canales" tvg-
-logo="https://canalesdominicanos.live/template/images/radios/teleunion_canal_16_santiago.jpg",
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Otros Canales" tvg-logo="https://canalesdominicanos.live/template/images/radios/teleunion_canal_16_santiago.jpg",
 Teleunion - RD
 http://168.228.194.33:48001/play/a06h/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Otros Canales" tvg-
-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Telesistema_Mexicano.png", Telesistema
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Otros Canales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Telesistema_Mexicano.png", Telesistema
 http://168.228.194.33:48001/play/a04o/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Otros Canales" tvg-logo="", RT ESPANOL
 http://pe.shortgod.com/colaloca21/tv6.php?id=67
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Otros Canales" tvg-
-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png", ESTRELLA TV
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Otros Canales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png", ESTRELLA TV
 https://estrellatv-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="AZTECA UNO" tvg-name="AZTECA UNO" group-title="Otros Canales" tvg-
-logo="https://i.imgur.com/rRxgBtI.png", AZTECA UNO
+#EXTINF:-1 tvg-id="AZTECA UNO" tvg-name="AZTECA UNO" group-title="Otros Canales" tvg-logo="https://i.imgur.com/rRxgBtI.png", AZTECA UNO
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
-#EXTINF:-1 tvg-id="Quiero tv" tvg-name="" group-title="Otros Canales" tvg-
-logo="https://tvenvivo.com.mx/wp-content/uploads/Quiero-TV-Guadalajara-en-vivo.png", Quiero tv
+#EXTINF:-1 tvg-id="Quiero tv" tvg-name="" group-title="Otros Canales" tvg-logo="https://tvenvivo.com.mx/wp-content/uploads/Quiero-TV-Guadalajara-en-vivo.png", Quiero tv
 https://www.dailymotion.com/cdn/live/video/x8lng9k.m3u8
-#EXTINF:-1 tvg-id="Capital 21" tvg-name="" group-title="Otros Canales" tvg-
-logo="https://tvenvivo.com.mx/wp-content/uploads/Capital-21-TV-en-vivo.png", Capital 21
+#EXTINF:-1 tvg-id="Capital 21" tvg-name="" group-title="Otros Canales" tvg-logo="https://tvenvivo.com.mx/wp-content/uploads/Capital-21-TV-en-vivo.png", Capital 21
 https://streamingc21.cdmx.gob.mx/capital21/stream.m3u8
-#EXTINF:-1 tvg-id="ADN 40" tvg-name="" group-title="Otros Canales" tvg-
-logo="https://i.imgur.com/Og17U9N.png", ADN40
+#EXTINF:-1 tvg-id="ADN 40" tvg-name="" group-title="Otros Canales" tvg-logo="https://i.imgur.com/Og17U9N.png", ADN40
 http://148.230.149.45:1021/play/a09g/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Otros Canales" tvg-logo="", CANAL 26 AGUASCALIENTES
 http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Lista TV3" tvg-
-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Logo_M%C3%A1s_Chic_%28canal_de_televis
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Lista TV3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Logo_M%C3%A1s_Chic_%28canal_de_televis
 i%C3%B3n%29.svg/1200px-Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg.png", MAS CHIC
 http://181.78.105.146:8800/play/a00a
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Otros Canales" tvg
-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Paka-paka.svg/1200px-Paka-
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Otros Canales" tvglogo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Paka-paka.svg/1200px-Paka-
 paka.svg.png", PAKA PAKA
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Otros Canales" tvg-
-logo="https://image.roku.com/developer_channels/prod/1a30d757bf7bfb8d26b8ddebc3151043a101efb20767c653f
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Otros Canales" tvg-logo="https://image.roku.com/developer_channels/prod/1a30d757bf7bfb8d26b8ddebc3151043a101efb20767c653f
 bb7c243f8386820.png", REWIND TV
 https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Otros Canales" tvg-
-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/La_2_HD.png/220px-La_2_HD.png", La 2
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Otros Canales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/La_2_HD.png/220px-La_2_HD.png", La 2
 http://pe.shortgod.com/colaloca21/tv5.php?id=14156
-#EXTINF:-1 tvg-id="El Financiero Bloomberg" tvg-name="" group-title="Otros Canales" tvg-
-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Bloomberg_logo.svg/2560px-
-Bloomberg_logo.svg.png", Bloomberg
+#EXTINF:-1 tvg-id="El Financiero Bloomberg" tvg-name="" group-title="Otros Canales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Bloomberg_logo.svg/2560px-Bloomberg_logo.svg.png", Bloomberg
 http://streamsy.online:2999/happy2024/newyear/863
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Otros Canales" tvg-
-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1200px-
-Logo_Univision_2019.svg.png", Univision
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Otros Canales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1200px-Logo_Univision_2019.svg.png", Univision
 http://181.78.105.146:8800/play/a05d
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="COMEDY CENTRAL" tvg-name="" group-title="Lista TV3" tvg-
-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Comedy_Central_2018.svg", 21 - 252 COMEDY
-CENTRAL
+#EXTINF:-1 tvg-id="COMEDY CENTRAL" tvg-name="" group-title="Lista TV3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Comedy_Central_2018.svg", 21 - 252 COMEDYCENTRAL
 http://181.78.23.162:8000/play/a09p/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-name="" group-title="Lista TV3" tvg-
-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-
-Cartoon_Network_2010_logo.svg.png", 23 - 290 CartoonNetwork
+#EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-name="" group-title="Lista TV3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png", 23 - 290 CartoonNetwork
 #EXTVLCOPT:http-user-agent=dfghdfghfghdfghdfg
 http://177.10.184.193:8000/play/a0eq/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="Discovery Kids" tvg-name="" group-title="Lista TV3" tvg-
-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Discovery_Kids_%282009%29.png", 25-292
-Discovery kids
+#EXTINF:-1 tvg-id="Discovery Kids" tvg-name="" group-title="Lista TV3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Discovery_Kids_%282009%29.png", 25-292 Discovery kids
 http://148.230.149.45:1021/play/a02s/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="NICKELODEON" tvg-name="" group-title="Lista TV3" tvg-
-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/2560px-Nick.svg.png", 27-286
-NICK
+#EXTINF:-1 tvg-id="NICKELODEON" tvg-name="" group-title="Lista TV3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/2560px-Nick.svg.png", 27-286 NICK
 http://148.230.149.45:1021/play/a02r/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
@@ -193,79 +139,58 @@ TNT_Logo_2016.svg.png", 31-370 TNT
 http://148.230.149.45:1021/play/a02w/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="SONY" tvg-name="" group-title="Lista TV3" tvg-
-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png", 208 SONY
+#EXTINF:-1 tvg-id="SONY" tvg-name="" group-title="Lista TV3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png", 208 SONY
 http://148.230.149.45:1021/play/a02m/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="AZTECA UNO" tvg-name="AZTECA UNO" group-title="Lista TV3" tvg-
-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Azteca_Uno_%282020%29.svg/2560px-
-Azteca_Uno_%282020%29.svg.png" , 101 Uno
+#EXTINF:-1 tvg-id="AZTECA UNO" tvg-name="AZTECA UNO" group-title="Lista TV3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Azteca_Uno_%282020%29.svg/2560px-Azteca_Uno_%282020%29.svg.png" , 101 Uno
 http://148.230.149.45:1021/play/a06j/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="CANAL DE LAS ESTRELLAS" tvg-name="CANAL DE LAS ESTRELLAS" group-title="Lista TV3"
-tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" , 102
+#EXTINF:-1 tvg-id="CANAL DE LAS ESTRELLAS" tvg-name="CANAL DE LAS ESTRELLAS" group-title="Lista TV3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" , 102
 CANAL DE LAS ESTRELLAS
 #EXTVLCOPT:http-user-agent=dfghdfghfghdfghdfg
 http://45.5.118.152:8000/play/a08a/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--https-reconnect=true
-#EXTINF:-1 tvg-id="CANAL DE LAS ESTRELLAS" tvg-name="CANAL DE LAS ESTRELLAS" group-title="Lista TV3"
-tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" , 102
+#EXTINF:-1 tvg-id="CANAL DE LAS ESTRELLAS" tvg-name="CANAL DE LAS ESTRELLAS" group-title="Lista TV3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" , 102
 CANAL DE LAS Estrellas 2
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="DISNEY" tvg-name="" group-title="Lista TV3" tvg-
-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/2560px-
-2014_Disney_Channel_logo.svg.png", DISNEY CHANNEL
+#EXTINF:-1 tvg-id="DISNEY" tvg-name="" group-title="Lista TV3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/2560px-2014_Disney_Channel_logo.svg.png", DISNEY CHANNEL
 http://148.230.149.45:1021/play/a02q/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="Tooncast" tvg-name="" group-title="Lista TV3" tvg-
-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1280px-
-Tooncast_logo.svg.png", Tooncast
+#EXTINF:-1 tvg-id="Tooncast" tvg-name="" group-title="Lista TV3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1280px-Tooncast_logo.svg.png", Tooncast
 http://181.78.23.162:8000/play/a0bu/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="NICK JR" tvg-name="" group-title="Lista TV3" tvg-
-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/1200px-
-Nick_Jr._logo_2009.svg.png", Nick Jr
+#EXTINF:-1 tvg-id="NICK JR" tvg-name="" group-title="Lista TV3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/1200px-Nick_Jr._logo_2009.svg.png", Nick Jr
 http://148.230.149.45:1021/play/a009/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Lista TV3" tvg-logo="https://1000marcas.net/wp-
-content/uploads/2022/10/BabyFirstTV-Logo.jpg", Baby First
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Lista TV3" tvg-logo="https://1000marcas.net/wp-content/uploads/2022/10/BabyFirstTV-Logo.jpg", Baby First
 http://45.5.117.182:8000/play/a0j9/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Lista TV3" tvg-
-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_logo_2009.svg/2560px-
-TeenNick_logo_2009.svg.png", Teen Nick 
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Lista TV3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_logo_2009.svg/2560px-TeenNick_logo_2009.svg.png", Teen Nick 
 http://181.78.105.146:8800/play/a04l
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="IMAGEN TELEVISION" tvg-name="" group-title="Lista TV3" tvg-
-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo-Imagen-TV-MX.png", 103 Imagen
+#EXTINF:-1 tvg-id="IMAGEN TELEVISION" tvg-name="" group-title="Lista TV3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo-Imagen-TV-MX.png", 103 Imagen
 http://streamsy.online:2999/happy2024/newyear/1695
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="CANAL 5" tvg-name="" group-title="Lista TV3" tvg-
-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-M%C3%A9xico.png" , 105
-Cinco
+#EXTINF:-1 tvg-id="CANAL 5" tvg-name="" group-title="Lista TV3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-M%C3%A9xico.png" , 105 Cinco
 http://177.10.184.193:8000/play/a0ej/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--https-reconnect=true
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Lista TV3" tvg-
-logo="https://i2.paste.pics/44ef69e0493989960cee3ec7a8a1b12e.png", 106 Multimedios
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Lista TV3" tvg-logo="https://i2.paste.pics/44ef69e0493989960cee3ec7a8a1b12e.png", 106 Multimedios
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8?PlaylistM3UCL
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--https-reconnect=true
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Lista TV3" tvg-
-logo="https://blogger.googleusercontent.com/img/a/AVvXsEj0OlWEiN3Keit4qXTyx-
-kd9zzvBnUK4rjCxcNXJJBG7yYqe42pa8Smgdtly89C4SHqXJeN4vWrsrP5ZFG9SfSbPwbICL_oIRby4YhvZn6_3U3Ft0U81FHgL0qT
-nStAoZw9x2bO-eIr32XnBDwayXh4YpOtW3Z9hL1_CoGPbALXRm-FVFPjLlR_WRiW0g=s231", 107 Siete
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Lista TV3" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEj0OlWEiN3Keit4qXTyx-kd9zzvBnUK4rjCxcNXJJBG7yYqe42pa8Smgdtly89C4SHqXJeN4vWrsrP5ZFG9SfSbPwbICL_oIRby4YhvZn6_3U3Ft0U81FHgL0qTnStAoZw9x2bO-eIr32XnBDwayXh4YpOtW3Z9hL1_CoGPbALXRm-FVFPjLlR_WRiW0g=s231", 107 Siete
 http://148.230.149.45:1021/play/a021/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
@@ -273,206 +198,150 @@ http://148.230.149.45:1021/play/a021/index.m3u8
 http://streamsy.online:2999/happy2024/newyear/27
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="AZ CORAZON" tvg-name="" group-title="Lista TV3" tvg-
-logo="https://cdn.mitvstatic.com/channels/mx_az-corazon_m.png", AZ CORAZON
+#EXTINF:-1 tvg-id="AZ CORAZON" tvg-name="" group-title="Lista TV3" tvg-logo="https://cdn.mitvstatic.com/channels/mx_az-corazon_m.png", AZ CORAZON
 http://148.230.149.45:1021/play/a0a3/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="AZ CLIC" tvg-name="" group-title="Lista TV3" tvg-
-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/TV_Azteca_Clic_logo.svg/1280px-
-TV_Azteca_Clic_logo.svg.png", AZTECA CLIC
+#EXTINF:-1 tvg-id="AZ CLIC" tvg-name="" group-title="Lista TV3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/TV_Azteca_Clic_logo.svg/1280px-TV_Azteca_Clic_logo.svg.png", AZTECA CLIC
 http://148.230.149.45:1021/play/a08b/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Lista TV3" tvg-
-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/TV_Azteca_Mundo_logo.svg/1200px-
-TV_Azteca_Mundo_logo.svg.png", AZTECA MUNDO
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Lista TV3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/TV_Azteca_Mundo_logo.svg/1200px-TV_Azteca_Mundo_logo.svg.png", AZTECA MUNDO
 http://streamsy.online:2999/happy2024/newyear/41
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Lista TV3" tvg-
-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/1200px-
-Atreseries_2020_logo.svg.png", A3SERIES
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Lista TV3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/1200px-Atreseries_2020_logo.svg.png", A3SERIES
 http://streamsy.online:2999/happy2024/newyear/565
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="CANAL 11" tvg-name="" group-title="Lista TV3" tvg-
-logo="https://i.imgur.com/K0351vF.png", 111 ONCE
+#EXTINF:-1 tvg-id="CANAL 11" tvg-name="" group-title="Lista TV3" tvg-logo="https://i.imgur.com/K0351vF.png", 111 ONCE
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Lista TV3" tvg-
-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Glitz_logo.png", Glitz
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Lista TV3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Glitz_logo.png", Glitz
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=CCCCC
 https://vivo.lamtv.tv:8081/a/0015/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Lista TV3" tvg-logo="", 114 Canal 14
 https://cdn.mycloudstream.io/hls/live/broadcast/uqgv4lg6/index.m3u8
-#EXTINF:-1 tvg-id="TV UNAM" tvg-name="" group-title="Lista TV3" tvg-
-logo="https://i.imgur.com/ayg5kRM.png", 120 UNAM
-https://5ca3e84a76d30.streamlock.net/tvunam/videotvunam/playlist.m3u8?
-wmsAuthSign=c2VydmVyX3RpbWU9MTAvOC8yMDIzIDY6MzE6MDUgUE0maGFzaF92YWx1ZT1rQnFTRkZqbSsrS2t5QkRCbjBka2J3PT
-0mdmFsaWRtaW51dGVzPTEwJmlkPQ==&DVR
+#EXTINF:-1 tvg-id="TV UNAM" tvg-name="" group-title="Lista TV3" tvg-logo="https://i.imgur.com/ayg5kRM.png", 120 UNAM
+https://5ca3e84a76d30.streamlock.net/tvunam/videotvunam/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvOC8yMDIzIDY6MzE6MDUgUE0maGFzaF92YWx1ZT1rQnFTRkZqbSsrS2t5QkRCbjBka2J3PT0mdmFsaWRtaW51dGVzPTEwJmlkPQ==&DVR
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Peliculas" tvg-
-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/FX_Movies_logo.svg/1200px-
-FX_Movies_logo.svg.png", FXM
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Peliculas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/FX_Movies_logo.svg/1200px-FX_Movies_logo.svg.png", FXM
 http://45.166.92.22:58001/play/a00u/index.m3u8
-#EXTINF:-1 tvg-id="A+" tvg-name="" group-title="Lista TV3" tvg-
-logo="https://www.dafont.com/forum/attach/orig/7/3/735902.png", A+
+#EXTINF:-1 tvg-id="A+" tvg-name="" group-title="Lista TV3" tvg-logo="https://www.dafont.com/forum/attach/orig/7/3/735902.png", A+
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
-#EXTINF:-1 tvg-id="CANAL 22 CONACULTA" tvg-name="" group-title="Lista TV3" tvg-
-logo="https://manualdeimagen.canal22.org.mx/img/int_color.png", 122 Canal 22
-https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/chunklist_w565457531_b1528000_sleng.m3u
-8
-#EXTINF:-1 tvg-id="CANAL DEL CONGRESO" tvg-name="" group-title="Lista TV3" tvg-
-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Logo_Canal_del_Congreso_%28Mexico%29.s
-vg/1200px-Logo_Canal_del_Congreso_%28Mexico%29.svg.png", 145 Congreso
+#EXTINF:-1 tvg-id="CANAL 22 CONACULTA" tvg-name="" group-title="Lista TV3" tvg-logo="https://manualdeimagen.canal22.org.mx/img/int_color.png", 122 Canal 22
+https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/chunklist_w565457531_b1528000_sleng.m3u8
+#EXTINF:-1 tvg-id="CANAL DEL CONGRESO" tvg-name="" group-title="Lista TV3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Logo_Canal_del_Congreso_%28Mexico%29.svg/1200px-Logo_Canal_del_Congreso_%28Mexico%29.svg.png", 145 Congreso
 https://edgeplay.canaldelcongreso.gob.mx/live_sd1/smil:canal-sd1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Lista TV3" tvg-logo="", 152 MVSTV
-https://www.dailymotion.com/cdn/manifest/video/x8oj9ul.m3u8?sec=R57h5WDVSxwgSryOjo-JvUf7o2VekBmoWFZO1-
-KjEWhq4oXrHhlxkL91GojQKB0m&dmTs=385879&dmV1st=5E521B7DB3813F8F3DF28AAD3B886CBE
-#EXTINF:-1 tvg-id="FORO TV" tvg-name="" group-title="Lista TV3" tvg-
-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Logo-ForoTV-2020.png", Foro Tv
+https://www.dailymotion.com/cdn/manifest/video/x8oj9ul.m3u8?sec=R57h5WDVSxwgSryOjo-JvUf7o2VekBmoWFZO1-KjEWhq4oXrHhlxkL91GojQKB0m&dmTs=385879&dmV1st=5E521B7DB3813F8F3DF28AAD3B886CBE
+#EXTINF:-1 tvg-id="FORO TV" tvg-name="" group-title="Lista TV3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Logo-ForoTV-2020.png", Foro Tv
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_6.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Lista TV3" tvg-
-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/MC_logo_2022.png", 158 MC
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Lista TV3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/MC_logo_2022.png", 158 MC
 http://148.230.149.45:1021/play/a003/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Lista TV3" tvg-logo="https://i.imgur.com/H3PzGZW.png",
-160 MultiPremiere
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Lista TV3" tvg-logo="https://i.imgur.com/H3PzGZW.png", 160 MultiPremiere
 http://148.230.149.45:1021/play/a06q/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--https-reconnect=true
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Lista TV3" tvg-
-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Cinelatino_logo.png", 162 CINELATINO
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Lista TV3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Cinelatino_logo.png", 162 CINELATINO
 http://148.230.149.45:1021/play/a01e/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Lista TV3" tvg-
-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Cinelatino_logo.png", 162 Cine Latino
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Lista TV3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Cinelatino_logo.png", 162 Cine Latino
 http://181.78.105.146:8800/play/a06x
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="UNIVERSAL CHANNEL" tvg-name="" group-title="Lista TV3" tvg-
-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Universal_Channel_Logo_2013.svg/2560px
--Universal_Channel_Logo_2013.svg.png", 206 Universal
+#EXTINF:-1 tvg-id="UNIVERSAL CHANNEL" tvg-name="" group-title="Lista TV3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Universal_Channel_Logo_2013.svg/2560px-Universal_Channel_Logo_2013.svg.png", 206 Universal
 http://181.78.105.146:2000/play/a03d/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="WARNER" tvg-name="" group-title="Lista TV3" tvg-
-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png", 210 WB
+#EXTINF:-1 tvg-id="WARNER" tvg-name="" group-title="Lista TV3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png", 210 WB
 http://148.230.149.45:1021/play/a004/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="AXN" tvg-name="" group-title="Lista TV3" tvg-
-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/2560px-
+#EXTINF:-1 tvg-id="AXN" tvg-name="" group-title="Lista TV3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/2560px-
 AXN_logo_%282015%29.svg.png", 222 AXN
 http://148.230.149.45:1021/play/a01g/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="FX" tvg-name="" group-title="Lista TV3" tvg-
-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/2560px-
-FX_International_logo.svg.png", 224 FX
+#EXTINF:-1 tvg-id="FX" tvg-name="" group-title="Lista TV3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/2560px-FX_International_logo.svg.png", 224 FX
 http://148.230.149.45:1021/play/a01h/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="SPACE" tvg-name="" group-title="Lista TV3" tvg-
-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1280px-
-SpaceLogo.svg.png", 226 Space MX
+#EXTINF:-1 tvg-id="SPACE" tvg-name="" group-title="Lista TV3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1280px-SpaceLogo.svg.png", 226 Space MX
 http://148.230.149.45:1021/play/a005/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--https-reconnect=true
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Lista TV3" tvg-
-logo="https://pbs.twimg.com/profile_images/787311506668924929/oP9Ajb2l_400x400.jpg",15tv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Lista TV3" tvg-logo="https://pbs.twimg.com/profile_images/787311506668924929/oP9Ajb2l_400x400.jpg",15tv
 https://hls.gvstream.live/telesistemas/15tv.stream/playlist.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Lista TV3" tvg-
-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1200px-
-A%26E_Network_logo.svg.png", 230 A&E
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Lista TV3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1200px-A%26E_Network_logo.svg.png", 230 A&E
 http://148.230.149.45:1021/play/a00z/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Lista TV3" tvg-
-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Lista TV3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/
 1200px-Investigation_Discovery_Logo_2018.svg.png", 234 Investigation Discovery
 http://148.230.149.45:1021/play/a006/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="TLC" tvg-name="" group-title="Lista TV3" tvg-
-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/2560px-TLC_Logo.svg.png",
+#EXTINF:-1 tvg-id="TLC" tvg-name="" group-title="Lista TV3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/2560px-TLC_Logo.svg.png",
 240 TLC
 http://148.230.149.45:1021/play/a011/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="LIFETIME" tvg-name="" group-title="Lista TV3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1280px-
-TBS_logo_2016.svg.png", 250 TBS
+#EXTINF:-1 tvg-id="LIFETIME" tvg-name="" group-title="Lista TV3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1280px-TBS_logo_2016.svg.png", 250 TBS
 http://181.78.105.146:8800/play/a043
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Lista TV3" tvg-
-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-
-TCM_Latam_logo.svg.png", TCM
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Lista TV3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png", TCM
 http://streamsy.online:2999/happy2024/newyear/88
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="UNICABLE" tvg-name="" group-title="Lista TV3" tvg-
-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/1200px-
+#EXTINF:-1 tvg-id="UNICABLE" tvg-name="" group-title="Lista TV3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/1200px-
 Unicable_logo.svg.png", UNICABLE
 http://45.68.35.218:4001/play/a014/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Musica" tvg-
-logo="https://telmex.com/documents/23521/4789358/Canal_lamejor_tv-280721.png/6362fc83-1eca-26d9-0486-
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Musica" tvg-logo="https://telmex.com/documents/23521/4789358/Canal_lamejor_tv-280721.png/6362fc83-1eca-26d9-0486-
 722e0d6a1918?t=1627573783000", 266 MejorTV
 http://190.61.102.67:2000/play/a00q/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Lista TV3" tvg-
-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logo_Once_Ni%C3%B1os.png", 280 OnceKids
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Lista TV3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logo_Once_Ni%C3%B1os.png", 280 OnceKids
 http://streamsy.online:2999/happy2024/newyear/1705
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="DISNEY JR" tvg-name="" group-title="Lista TV3" tvg-
-logo="https://w7.pngwing.com/pngs/734/762/png-transparent-disney-junior-disney-channel-the-walt-
-disney-company-logo-television-others-television-text-logo.png", 282 Disney JR
+#EXTINF:-1 tvg-id="DISNEY JR" tvg-name="" group-title="Lista TV3" tvg-logo="https://w7.pngwing.com/pngs/734/762/png-transparent-disney-junior-disney-channel-the-walt-disney-company-logo-television-others-television-text-logo.png", 282 Disney JR
 http://148.230.149.45:1021/play/a013/index.m3u8
 ##EXTVLCOPT:network-caching=2000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Musica" tvg-
-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/NickMusic_Logo.png", 285 - Nick Music
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Musica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/NickMusic_Logo.png", 285 - Nick Music
 http://streamsy.online:2999/happy2024/newyear/47
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="CARTOONITO" tvg-name="" group-title="Lista TV3" tvg-
-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/2560px-
-Cartoonito_-_Logo_2021.svg.png", Cartoonito
+#EXTINF:-1 tvg-id="CARTOONITO" tvg-name="" group-title="Lista TV3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/2560px-Cartoonito_-_Logo_2021.svg.png", Cartoonito
 http://streamsy.online:2999/happy2024/newyear/52
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Lista TV3" tvg-logo="https://dancefestmx.com/wp-
-content/uploads/2019/10/Logo_MVS_TV_Color_sitio.png", MVS
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Lista TV3" tvg-logo="https://dancefestmx.com/wp-content/uploads/2019/10/Logo_MVS_TV_Color_sitio.png", MVS
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Lista TV3" tvg-logo="https://1.bp.blogspot.com/-
-WqGZkY7Cips/YR-
-5XInQpGI/AAAAAAAAQL4/_5gTg1KKi7g_hBhSZbmI5fXRWdUjLqu_ACLcBGAsYHQ/s1600/Aprende%2BTV%2BM%25C3%25A9xico%
-2Ben%2Bvivo.png", 304 AprendeTV2
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Lista TV3" tvg-logo="https://1.bp.blogspot.com/-WqGZkY7Cips/YR-5XInQpGI/AAAAAAAAQL4/_5gTg1KKi7g_hBhSZbmI5fXRWdUjLqu_ACLcBGAsYHQ/s1600/Aprende%2BTV%2BM%25C3%25A9xico%2Ben%2Bvivo.png", 304 AprendeTV2
 http://181.78.105.146:2000/play/a04h/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="INGENIO" tvg-name="" group-title="Lista TV3" tvg-
-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Ingenio_tv_logo.png", 306 IngenioTV
+#EXTINF:-1 tvg-id="INGENIO" tvg-name="" group-title="Lista TV3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Ingenio_tv_logo.png", 306 IngenioTV
 http://181.78.105.146:2000/play/a04i/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="Discovery Channel HD" tvg-name="" group-title="Lista TV3" tvg-
-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/2016_Discovery_logo.svg/2048px-
-2016_Discovery_logo.svg.png", 308 Discovery
+#EXTINF:-1 tvg-id="Discovery Channel HD" tvg-name="" group-title="Lista TV3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/2016_Discovery_logo.svg/2048px-2016_Discovery_logo.svg.png", 308 Discovery
 http://148.230.149.45:1021/play/a02t/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
@@ -480,39 +349,27 @@ http://148.230.149.45:1021/play/a02t/index.m3u8
 http://pe.shortgod.com/colaloca21/tv3.php?id=27985
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Lista TV3" tvg-
-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/1200px-
-Science_Channel_logo.svg.png", DISCOVERY SCIENCE
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Lista TV3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/1200px-Science_Channel_logo.svg.png", DISCOVERY SCIENCE
 http://181.78.23.162:8000/play/a058/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Lista TV3" tvg-
-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-
-Discovery_Turbo_logo.svg.png", DISCOVERY TURBO
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Lista TV3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png", DISCOVERY TURBO
 http://streamsy.online:2999/happy2024/newyear/285
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Lista TV3" tvg-
-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/128
-0px-2015_Discovery_theater_HD_logo.svg.png", Discovery Theater HD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Lista TV3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/1280px-2015_Discovery_theater_HD_logo.svg.png", Discovery Theater HD
 http://181.78.23.162:8000/play/a074/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Lista TV3" tvg-
-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/2560px-
-World_Discovery_HD_logo.svg.png", Discovery World HD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Lista TV3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/2560px-World_Discovery_HD_logo.svg.png", Discovery World HD
 http://streamsy.online:2999/happy2024/newyear/59
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Lista TV3" tvg-
-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Animal_Planet_logo_%28black_and_green%
-29.svg/400px-Animal_Planet_logo_%28black_and_green%29.svg.png", ANIMAL Planet
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Lista TV3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Animal_Planet_logo_%28black_and_green%29.svg/400px-Animal_Planet_logo_%28black_and_green%29.svg.png", ANIMAL Planet
 http://148.230.149.45:1021/play/a02u/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC" tvg-name="" group-title="Lista TV3" tvg-
-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/1200px-
-National-Geographic-Logo.svg.png", 312 NatGeo
+#EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC" tvg-name="" group-title="Lista TV3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/1200px-National-Geographic-Logo.svg.png", 312 NatGeo
 http://148.230.149.45:1021/play/a00a/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--https-reconnect=true
@@ -524,336 +381,212 @@ https://m3u-editor.com/serve/99c44300-ca0a-11ee-b1fe-b98976305a99/1089239144
 http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/8955
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Lista TV3" tvg-
-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-
-HGTV_US_Logo_2015.svg.png", Home Garden Latino
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Lista TV3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png", Home Garden Latino
 http://streamsy.online:2999/happy2024/newyear/1425
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Lista TV3" tvg-
-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Elgourmetlogo2015.png", EL GOURMET
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Lista TV3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Elgourmetlogo2015.png", EL GOURMET
 http://148.230.149.45:1021/play/a05o/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="Excélsior TV" tvg-name="" group-title="Noticias" tvg-
-logo="http://cdn2.excelsior.imagendigital.com/images/excelsior-tv-redes.png", Excélsior TV
+#EXTINF:-1 tvg-id="Excélsior TV" tvg-name="" group-title="Noticias" tvg-logo="http://cdn2.excelsior.imagendigital.com/images/excelsior-tv-redes.png", Excélsior TV
 http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/137102
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="BABY TV" tvg-name="" group-title="Lista TV3" tvg-
-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Babytvv.png", Baby tv
+#EXTINF:-1 tvg-id="BABY TV" tvg-name="" group-title="Lista TV3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Babytvv.png", Baby tv
 http://streamsy.online:2999/happy2024/newyear/1701
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="HISTORY" group-title="Lista TV3" tvg-
-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1952px-
-History_Logo.svg.png", 318 History
+#EXTINF:-1 tvg-id="HISTORY" group-title="Lista TV3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1952px-History_Logo.svg.png", 318 History
 http://148.230.149.45:1021/play/a02v/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="H2" tvg-name="" group-title="Lista TV3" tvg-
-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/1200px-
-History2_logo_%282022%29.svg.png", 320 History2
+#EXTINF:-1 tvg-id="H2" tvg-name="" group-title="Lista TV3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/1200px-History2_logo_%282022%29.svg.png", 320 History2
 http://148.230.149.45:1021/play/a02c/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--https-reconnect=true
-#EXTINF:-1 tvg-id="H2" tvg-name="" group-title="Lista TV3" tvg-
-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Logotipo_de_Mega_%282015-
-2020%29.svg/800px-Logotipo_de_Mega_%282015-2020%29.svg.png", Mega
+#EXTINF:-1 tvg-id="H2" tvg-name="" group-title="Lista TV3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Logotipo_de_Mega_%282015-2020%29.svg/800px-Logotipo_de_Mega_%282015-2020%29.svg.png", Mega
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Deportes" tvg-logo="https://m.media-
-amazon.com/images/I/313WTbqZeqL.jpg", LA Dodgers
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Deportes" tvg-logo="https://m.media-amazon.com/images/I/313WTbqZeqL.jpg", LA Dodgers
 http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/36277
 ##EXTVLCOPT:network-caching=2000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="CLAROSPORTS" tvg-name="" group-title="Deporte" tvg-
-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/4221px-
-Claro_Sports_logo.svg.png", 336 Claro Sport
+#EXTINF:-1 tvg-id="CLAROSPORTS" tvg-name="" group-title="Deporte" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/4221px-Claro_Sports_logo.svg.png", 336 Claro Sport
 http://streamsy.online:2999/happy2024/newyear/1700
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Deporte" tvg-
-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/ESPN_Extra_Logo_2022.webp/750px-
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Deporte" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/ESPN_Extra_Logo_2022.webp/750px-
 ESPN_Extra_Logo_2022.webp.png", ESPN Ext
 http://148.230.149.45:1021/play/a05c/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="ESPN 2" tvg-name="" group-title=Deporte" tvg-
-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/1280px-Espn2.svg.png", 338
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="" group-title=Deporte" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/1280px-Espn2.svg.png", 338
 ESPN 2
 http://148.230.149.45:1021/play/a01m/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="ESPN" tvg-name="" group-title="Deporte" tvg-
-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png", 342 ESPN
+#EXTINF:-1 tvg-id="ESPN" tvg-name="" group-title="Deporte" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png", 342 ESPN
 http://148.230.149.45:1021/play/a01l/index.m3u8
-#EXTINF:-1 tvg-id="ESPN 3" tvg-name="" group-title="Deporte" tvg-
-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png", 344 ESPN3
+#EXTINF:-1 tvg-id="ESPN 3" tvg-name="" group-title="Deporte" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png", 344 ESPN3
 http://148.230.149.45:1021/play/a04k/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Deporte" tvg-
-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/2560px-
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Deporte" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/2560px-
 ESPN_4_logo.svg.png", ESPN4
 http://streamsy.online:2999/happy2024/newyear/90
-#EXTINF:-1 tvg-id="FOX SPORTS" tvg-name="" group-title="Deporte" tvg-
-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-
-FOX_Sports_logo.svg.png", FOX SPORTS
+#EXTINF:-1 tvg-id="FOX SPORTS" tvg-name="" group-title="Deporte" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png", FOX SPORTS
 http://streamsy.online:2999/happy2024/newyear/92
-#EXTINF:-1 tvg-id="FOX SPORTS 2" tvg-name="" group-title="Deporte" tvg-
-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-
-2015_Fox_sports_logo.svg.png", FOX SPORTS 2 HD
+#EXTINF:-1 tvg-id="FOX SPORTS 2" tvg-name="" group-title="Deporte" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png", FOX SPORTS 2 HD
 http://streamsy.online:2999/happy2024/newyear/92
-#EXTINF:-1 tvg-id="FOX SPORTS 3" tvg-name="" group-title="Deporte" tvg-
-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/2560px-
-Fox_sports_3_logo.svg.png", FOX SPORTS 3 HD
+#EXTINF:-1 tvg-id="FOX SPORTS 3" tvg-name="" group-title="Deporte" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/2560px-Fox_sports_3_logo.svg.png", FOX SPORTS 3 HD
 http://181.78.105.146:8800/play/a056
-#EXTINF:-1 tvg-id="Golf Channel" tvg-name="" group-title="Deporte" tvg-
-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Golf_Channel_Logo.png/1200px-
-Golf_Channel_Logo.png", Golf
+#EXTINF:-1 tvg-id="Golf Channel" tvg-name="" group-title="Deporte" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Golf_Channel_Logo.png/1200px-Golf_Channel_Logo.png", Golf
 http://148.230.149.45:1021/play/a063/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Deporte" tvg-
-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/PX_Sports_-_Logo.png", PX SPORT
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Deporte" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/PX_Sports_-_Logo.png", PX SPORT
 http://148.230.149.45:1021/play/a068/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Deporte" tvg-
-logo="https://static.wikia.nocookie.net/liga-mx/images/6/63/AYMSports21logo.png/revision/latest?
-cb=20210821051314&path-prefix=es", AYM HD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Deporte" tvg-logo="https://static.wikia.nocookie.net/liga-mx/images/6/63/AYMSports21logo.png/revision/latest?cb=20210821051314&path-prefix=es", AYM HD
 http://148.230.149.45:1021/play/a05z/index.m3u8
-#EXTINF:-1 tvg-id="ADRENALINA SPORTS" tvg-name="" group-title="Deporte" tvg-
-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Logo_Adrenalina-%2820q6%29.png", Adrenalina
-Sport Network
+#EXTINF:-1 tvg-id="ADRENALINA SPORTS" tvg-name="" group-title="Deporte" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Logo_Adrenalina-%2820q6%29.png", AdrenalinaSport Network
 http://pe.shortgod.com/pawor201/tv5.php?id=3158
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Deporte" tvg-
-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Fuel_TV.svg/1200px-Fuel_TV.svg.png", Fuel
-Tv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Deporte" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Fuel_TV.svg/1200px-Fuel_TV.svg.png", FuelTv
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60f1673d0e4370000784dc61/master.m3u8
-#EXTINF:-1 tvg-id="CNN Internacional" tvg-name="" group-title="Noticias" tvg-
-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-
-2015%29.svg/512px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png", 350 CNN US
+#EXTINF:-1 tvg-id="CNN Internacional" tvg-name="" group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/512px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png", 350 CNN US
 https://m3u-editor.com/serve/99c44300-ca0a-11ee-b1fe-b98976305a99/1089239019
-#EXTINF:-1 tvg-id="CNN EN ESPAÑOL" tvg-name="" group-title="Noticias" tvg-
-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-
-2015%29.svg/512px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png", 350 CNN LAT
+#EXTINF:-1 tvg-id="CNN EN ESPAÑOL" tvg-name="" group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/512px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png", 350 CNN LAT
 http://181.78.105.146:8800/play/a04c
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Lista TV3" tvg-logo="", 353 RT
 http://pe.shortgod.com/colaloca21/tv6.php?id=67
-#EXTINF:-1 tvg-id="MILENIO" tvg-name="" group-title="Lista TV3" tvg-
-logo="https://imagenes.gatotv.com/logos/canales/claros/milenio_tv-mediano.png" , 356 Milenio
-https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Lista TV3" tvg-
-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Tvc_2003.png", 358 TVC Deportes
+#EXTINF:-1 tvg-id="MILENIO" tvg-name="" group-title="Lista TV3" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/milenio_tv-mediano.png" , 356 Milenio
+https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8#EXTINF:-1 tvg-id="" tvg-name="" group-title="Lista TV3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Tvc_2003.png", 358 TVC Deportes
 http://148.230.149.45:1021/play/a03v/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Lista TV3" tvg-
-logo="https://www.lyngsat.com/logo/tv/jj/justicia-tv-mx.png", 360 Judicial
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Lista TV3" tvg-logo="https://www.lyngsat.com/logo/tv/jj/justicia-tv-mx.png", 360 Judicial
 https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8
-#EXTINF:-1 tvg-id="BITIME" tvg-name="" group-title="Lista TV3" tvg-
-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/BitMe_logo.svg/1200px-
-BitMe_logo.svg.png", BITME
+#EXTINF:-1 tvg-id="BITIME" tvg-name="" group-title="Lista TV3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/BitMe_logo.svg/1200px-BitMe_logo.svg.png", BITME
 https://linear-401.frequency.stream/mt/studio/401/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Películas" tvg-
-logo="https://www.fulltv.com.ar/images/tv/el-garage-3058.png", Garage tv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Películas" tvg-logo="https://www.fulltv.com.ar/images/tv/el-garage-3058.png", Garage tv
 https://stream1.sersat.com/hls/garagetv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Películas" tvg-
-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/2020_Canal_DHE_logo.svg/1200px-
-2020_Canal_DHE_logo.svg.png", DHE HD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Películas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/2020_Canal_DHE_logo.svg/1200px-2020_Canal_DHE_logo.svg.png", DHE HD
 http://181.78.105.146:8800/play/a04x
-#EXTINF:-1 tvg-id="CINECANAL" tvg-name="" group-title="Películas" tvg-
-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png", 378 CineCanal 
+#EXTINF:-1 tvg-id="CINECANAL" tvg-name="" group-title="Películas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png", 378 CineCanal 
 http://148.230.149.45:1021/play/a00f/index.m3u8
 #EXTINF:-1 tvg-id="CTV" tvg-name="" group-title="Películas" tvg-logo="", CTV
 https://m3u-editor.com/serve/99c44300-ca0a-11ee-b1fe-b98976305a99/1089239021
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Películas" tvg-
-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/FILMANDARTS.png", 384 Films
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Películas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/FILMANDARTS.png", 384 Films
 http://148.230.149.45:1021/play/a05m/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Lista TV3" tvg-logo="https://i.imgur.com/klhTyDU.png",
-Telemax
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Lista TV3" tvg-logo="https://i.imgur.com/klhTyDU.png",Telemax
 http://s5.mexside.net:1935/telemax/telemax/.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="AZ CINEMA" tvg-name="" group-title="Películas" tvg-
-logo="https://cdn.mitvstatic.com/channels/cl_az-cinema_m.png", AZTECA CINEMA
+#EXTINF:-1 tvg-id="AZ CINEMA" tvg-name="" group-title="Películas" tvg-logo="https://cdn.mitvstatic.com/channels/cl_az-cinema_m.png", AZTECA CINEMA
 http://148.230.149.45:1021/play/a0a6/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Películas" tvg-logo="", EURO Channel
 http://181.78.105.146:8800/play/a020
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Películas" tvg-
-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/EUROPAEUROPALOGO2016.png", Europa HD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Películas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/EUROPAEUROPALOGO2016.png", Europa HD
 http://181.78.105.146:8800/play/a04v
-#EXTINF:-1 tvg-id="SYFY" tvg-name="" group-title="Películas" tvg-
-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Syfylogo.png", SYFY
+#EXTINF:-1 tvg-id="SYFY" tvg-name="" group-title="Películas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Syfylogo.png", SYFY
 http://148.230.149.45:1021/play/a03h/index.m3u8
-#EXTINF:-1 tvg-id="STUDIO UNIVERSAL" tvg-name="" group-title="Películas" tvg-
-logo="https://varioscanais.com/wp-content/uploads/2021/08/Studio-Universal.png", 386 StudioUniversal
+#EXTINF:-1 tvg-id="STUDIO UNIVERSAL" tvg-name="" group-title="Películas" tvg-logo="https://varioscanais.com/wp-content/uploads/2021/08/Studio-Universal.png", 386 StudioUniversal
 http://148.230.149.45:1021/play/a00x/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Lista TV3" tvg-logo="", 28 Nuevo Leon
 https://60ed5b6d0df78.streamlock.net:1936/canal28/canal28/playlist.m3u8
-#EXTINF:-1 tvg-id="UNIVERSAL CINEMA" tvg-name="" group-title="Películas" tvg-
-logo="https://www.izzi.mx/izziweb/img/dummy-img/logos/universal-cinema-dark-logo.png", UNIVERSAL
-CINEMA
+#EXTINF:-1 tvg-id="UNIVERSAL CINEMA" tvg-name="" group-title="Películas" tvg-logo="https://www.izzi.mx/izziweb/img/dummy-img/logos/universal-cinema-dark-logo.png", UNIVERSAL CINEMA
 http://streamsy.online:2999/happy2024/newyear/1662
-#EXTINF:-1 tvg-id="UNIVERSAL COMEDY" tvg-name="" group-title="Lista TV3" tvg-
-logo="https://www.izzi.mx/izziweb/img/dummy-img/logos/universal-comedy-dark-logo.png", UNIVERSAL
-COMEDY HD
+#EXTINF:-1 tvg-id="UNIVERSAL COMEDY" tvg-name="" group-title="Lista TV3" tvg-logo="https://www.izzi.mx/izziweb/img/dummy-img/logos/universal-comedy-dark-logo.png", UNIVERSAL COMEDY HD
 http://181.78.105.146:8800/play/a06b
-#EXTINF:-1 tvg-id="UNIVERSAL CRIME" tvg-name="" group-title="Lista TV3" tvg-
-logo="https://www.izzi.mx/izziweb/img/dummy-img/logos/universal-crime-dark-logo.png", UNIVERSAL CRIME
-HD
+#EXTINF:-1 tvg-id="UNIVERSAL CRIME" tvg-name="" group-title="Lista TV3" tvg-logo="https://www.izzi.mx/izziweb/img/dummy-img/logos/universal-crime-dark-logo.png", UNIVERSAL CRIME HD
 http://streamsy.online:2999/happy2024/newyear/1663
-#EXTINF:-1 tvg-id="UNIVERSAL REALITY" tvg-name="" group-title="Lista TV3" tvg-
-logo="https://www.izzi.mx/izziweb/img/dummy-img/logos/universal-reality-dark-logo.png", UNIVERSAL
-REALITY HD
+#EXTINF:-1 tvg-id="UNIVERSAL REALITY" tvg-name="" group-title="Lista TV3" tvg-logo="https://www.izzi.mx/izziweb/img/dummy-img/logos/universal-reality-dark-logo.png", UNIVERSAL REALITY HD
 http://streamsy.online:2999/happy2024/newyear/1664
-#EXTINF:-1 tvg-id="UNIVERSAL PREMIERE" tvg-name="" group-title="Películas" tvg-
-logo="https://www.izzi.mx/izziweb/img/dummy-img/logos/universal-premiere-dark-logo.png", UNIVERSAL
-PREMIERE HD
+#EXTINF:-1 tvg-id="UNIVERSAL PREMIERE" tvg-name="" group-title="Películas" tvg-logo="https://www.izzi.mx/izziweb/img/dummy-img/logos/universal-premiere-dark-logo.png", UNIVERSAL PREMIERE HD
 http://streamsy.online:2999/happy2024/newyear/1661
-#EXTINF:-1 tvg-id="GOLDEN" tvg-name="" group-title="Películas" tvg-
-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/640px-
-Canal_Golden_logo.svg.png", GOLDEN
+#EXTINF:-1 tvg-id="GOLDEN" tvg-name="" group-title="Películas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/640px-Canal_Golden_logo.svg.png", GOLDEN
 http://181.78.105.146:8800/play/a02b
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Películas" tvg-
-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.92231216_GoldenPlus2020.png.d59a79a13d9
-95edfc0dc2f0c02253cc5.png", GOLDEN PLUS
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Películas" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.92231216_GoldenPlus2020.png.d59a79a13d995edfc0dc2f0c02253cc5.png", GOLDEN PLUS
 #EXTVLCOPT:http-user-agent=CCCCC
 https://vivo.lamtv.tv:8081/a/0068/playlist.m3u8
-#EXTINF:-1 tvg-id="GOLDEN EDGE" tvg-name="" group-title="Películas" tvg-
-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Golden_Edge_Logo_2020.png", GOLDEN EDGE
+#EXTINF:-1 tvg-id="GOLDEN EDGE" tvg-name="" group-title="Películas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Golden_Edge_Logo_2020.png", GOLDEN EDGE
 http://45.68.35.218:4001/play/a00i/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Películas" tvg-
-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png", GOLDEN PREMIER
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Películas" tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png", GOLDEN PREMIER
 http://streamsy.online:2999/happy2024/newyear/83
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Películas" tvg-logo="", GOLDEN Premier 2
 http://168.228.194.33:48001/play/a00z/index.m3u8
-#EXTINF:-1 tvg-id="HBO MUNDI" tvg-name="" group-title="Películas" tvg-
-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/640px-
-HBO_Mundi.svg.png", HBO MUNDI
+#EXTINF:-1 tvg-id="HBO MUNDI" tvg-name="" group-title="Películas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/640px-HBO_Mundi.svg.png", HBO MUNDI
 http://148.230.149.45:1021/play/a05i/index.m3u8
-#EXTINF:-1 tvg-id="HBO" tvg-name="" group-title="Películas" tvg-
-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png",
-HBO HD 
+#EXTINF:-1 tvg-id="HBO" tvg-name="" group-title="Películas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png", HBO HD 
 http://148.230.149.45:1021/play/a019/index.m3u8
-#EXTINF:-1 tvg-id="HBO FAMILY" tvg-name="" group-title="Películas" tvg-
-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/HBO_Family_logo.png/640px-
-HBO_Family_logo.png", HBO Family
+#EXTINF:-1 tvg-id="HBO FAMILY" tvg-name="" group-title="Películas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/HBO_Family_logo.png/640px-HBO_Family_logo.png", HBO Family
 http://148.230.149.45:1021/play/a00j/index.m3u8
-#EXTINF:-1 tvg-id="HBO 2" tvg-name="" group-title="Películas" tvg-
-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png", HBO2 HD
+#EXTINF:-1 tvg-id="HBO 2" tvg-name="" group-title="Películas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png", HBO2 HD
 http://148.230.149.45:1021/play/a00i/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Películas" tvg-
-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/HBO_Plus.png/640px-HBO_Plus.png", HBO
-Plus HD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Películas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/HBO_Plus.png/640px-HBO_Plus.png", HBO Plus HD
 http://181.78.23.162:8000/play/a0l4/index.m3u8
-#EXTINF:-1 tvg-id="HBO POP" tvg-name="" group-title="Películas" tvg-
-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1200px-HBO_Pop.svg.png",
-HBO Pop HD
+#EXTINF:-1 tvg-id="HBO POP" tvg-name="" group-title="Películas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1200px-HBO_Pop.svg.png", HBO Pop HD
 http://181.78.23.162:8000/play/a0fg/index.m3u8
-#EXTINF:-1 tvg-id="HBO XREME" tvg-name="" group-title="Películas" tvg-
-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-
-HBO_Xtreme.svg.png", HBO Xtreme
+#EXTINF:-1 tvg-id="HBO XREME" tvg-name="" group-title="Películas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png", HBO Xtreme
 http://148.230.149.45:1021/play/a01q/index.m3u8
-#EXTINF:-1 tvg-id="HBO Signature " tvg-name="" group-title="Películas" tvg-
-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-
-HBO_Signature.svg.png", HBO Signature
+#EXTINF:-1 tvg-id="HBO Signature " tvg-name="" group-title="Películas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png", HBO Signature
 http://streamsy.online:2999/happy2024/newyear/118
-#EXTINF:-1 tvg-id="STAR CHANNEL" tvg-name="" group-title="Películas" tvg-
-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Star_Channel_2020.svg", STAR CH 
+#EXTINF:-1 tvg-id="STAR CHANNEL" tvg-name="" group-title="Películas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Star_Channel_2020.svg", STAR CH 
 http://148.230.149.45:1021/play/a01f/index.m3u8
-#EXTINF:-1 tvg-id="Sony Movies" tvg-name="" group-title="Películas" tvg-
-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/1200px-
-Sony_Movies_Logo.svg.png", Sony Movies HD
+#EXTINF:-1 tvg-id="Sony Movies" tvg-name="" group-title="Películas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/1200px-Sony_Movies_Logo.svg.png", Sony Movies HD
 http://181.78.105.146:8800/play/a04w
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Películas" tvg-
-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1200px-
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Películas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1200px-
 Pasiones_Tv_logo.svg.png", Pasiones HD
 http://181.78.105.146:8800/play/a05c
-#EXTINF:-1 tvg-id="PARAMOUNT" tvg-name="" group-title="Películas" tvg-
-logo="https://img1.freepng.es/20180526/hkt/kisspng-paramount-pictures-paramount-channel-television-ch-
-5b09119ba9bac0.9186550615273209876952.jpg", 388 Paramount
+#EXTINF:-1 tvg-id="PARAMOUNT" tvg-name="" group-title="Películas" tvg-logo="https://img1.freepng.es/20180526/hkt/kisspng-paramount-pictures-paramount-channel-television-ch-5b09119ba9bac0.9186550615273209876952.jpg", 388 Paramount
 http://181.78.105.146:2000/play/a01s/index.m3u8
-#EXTINF:-1 tvg-id="AMC" tvg-name="" group-title="Películas" tvg-
-logo="https://cdn.freebiesupply.com/logos/large/2x/amc-logo-png-transparent.png", AMC
+#EXTINF:-1 tvg-id="AMC" tvg-name="" group-title="Películas" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/amc-logo-png-transparent.png", AMC
 http://148.230.149.45:1021/play/a05r/index.m3u8
-#EXTINF:-1 tvg-id="CINEMAX" tvg-name="" group-title="Películas" tvg-
-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-
+#EXTINF:-1 tvg-id="CINEMAX" tvg-name="" group-title="Películas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-
 Cinemax_%28Yellow%29.svg.png", CINEMAX
 http://148.230.149.45:1021/play/a01n/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="tv3" tvg-logo="https://4vi3w.co/uploads/tv_image/sm/wow-
-tv-el-salvador.jpg", WOW tv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="tv3" tvg-logo="https://4vi3w.co/uploads/tv_image/sm/wow-tv-el-salvador.jpg", WOW tv
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Películas" tvg-logo="", Cine Premium HD
 http://177.234.198.43:8000/play/a01d/index.m3u8
-#EXTINF:-1 tvg-id="DE PELICULA" tvg-name="" group-title="Películas" tvg-
-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png", DE PELICULA
+#EXTINF:-1 tvg-id="DE PELICULA" tvg-name="" group-title="Películas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png", DE PELICULA
 http://45.68.35.218:4001/play/a00e/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Películas" tvg-logo="https://1000marcas.net/wp-
-content/uploads/2022/01/De-Pelicula-Plus-Logo-2017.png", DE PELICULA PLUS
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Películas" tvg-logo="https://1000marcas.net/wp-content/uploads/2022/01/De-Pelicula-Plus-Logo-2017.png", DE PELICULA PLUS
 http://streamsy.online:2999/happy2024/newyear/1699
-#EXTINF:-1 tvg-id="Atres Cine HD" tvg-name="" group-title="Películas" tvg-
-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Atrescine_logo.svg/1200px-
-Atrescine_logo.svg.png", A3CINE
+#EXTINF:-1 tvg-id="Atres Cine HD" tvg-name="" group-title="Películas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Atrescine_logo.svg/1200px-Atrescine_logo.svg.png", A3CINE
 http://pe.shortgod.com/colaloca21/tv5.php?id=14163
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Lista TV3" tvg-logo="https://i.imgur.com/A1xzjOI.png",
-DW HD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Lista TV3" tvg-logo="https://i.imgur.com/A1xzjOI.png", DW HD
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Lista TV3" tvg-
-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/WOBI_logo.png", WOBI
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Lista TV3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/WOBI_logo.png", WOBI
 http://pe.shortgod.com/colaloca21/tv7.php?id=26900
-#EXTINF:-1 tvg-id="AGROTENDENCIA" tvg-name="" group-title="Lista TV3" tvg-
-logo="https://i.imgur.com/frd60hR.png", AGROTENDENCIA
+#EXTINF:-1 tvg-id="AGROTENDENCIA" tvg-name="" group-title="Lista TV3" tvg-logo="https://i.imgur.com/frd60hR.png", AGROTENDENCIA
 https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
-#EXTINF:-1 tvg-id="MORBIDO TV" tvg-name="" group-title="Musica" tvg-
-logo="https://www.lyngsat.com/logo/tv/mm/morbido-ar.png", Morbido tv
+#EXTINF:-1 tvg-id="MORBIDO TV" tvg-name="" group-title="Musica" tvg-logo="https://www.lyngsat.com/logo/tv/mm/morbido-ar.png", Morbido tv
 http://pe.shortgod.com/c16a6/tv9.php?id=360
-#EXTINF:-1 tvg-id="TLNOVELAS" tvg-name="" group-title="Lista TV3" tvg-
-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_tlnovelas_feb2019.png/2445px-
-Logo_tlnovelas_feb2019.png", TELENOVELAS
+#EXTINF:-1 tvg-id="TLNOVELAS" tvg-name="" group-title="Lista TV3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_tlnovelas_feb2019.png/2445px-Logo_tlnovelas_feb2019.png", TELENOVELAS
 http://181.78.105.146:8800/play/a07k
-#EXTINF:-1 tvg-id="TVE" tvg-name="" group-title="Lista TV3" tvg-
-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png", StarTve
+#EXTINF:-1 tvg-id="TVE" tvg-name="" group-title="Lista TV3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png", StarTve
 http://streamsy.online:2999/happy2024/newyear/1679
-#EXTINF:-1 tvg-id="TUDN" tvg-name="" group-title="Deportes" tvg-
-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-
-TUDN_Logo.svg.png", TUDN
+#EXTINF:-1 tvg-id="TUDN" tvg-name="" group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png", TUDN
 http://181.78.105.146:2000/play/a08j/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Lista TV3" tvg-
-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Ubeat.png", Ubeat
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Lista TV3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Ubeat.png", Ubeat
 http://aanax.com:8080/stadnik/6a627b52a9/286768
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Lista TV3" tvg-logo="https://1000marcas.net/wp-
-content/uploads/2020/02/Dreamworks-Logo-1.png", DreamWorks
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Lista TV3" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/Dreamworks-Logo-1.png", DreamWorks
 http://148.230.149.45:1021/play/a09b/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Musica" tvg-
-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1200px-Htv_logo.svg.png",
-HTV 
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Musica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1200px-Htv_logo.svg.png", HTV 
 http://148.230.149.45:1021/play/a03n/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Musica" tvg-
-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Exa_TV_logo.svg/1200px-
-Exa_TV_logo.svg.png", 154 EXA TV
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Musica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Exa_TV_logo.svg/1200px-Exa_TV_logo.svg.png", 154 EXA TV
 http://pe.shortgod.com/c16a6/tv9.php?id=89344
 #EXTINF:-1 tvg-id="BANDAMAX" tvg-name="" group-title="Musica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Bandamax_2017-2020.png", BANDAMAX
 http://streamsy.online:2999/happy2024/newyear/1634
-#EXTINF:-1 tvg-id="TELEHIT" tvg-name="" group-title="Musica" tvg-
-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Telehit_logo_2020.png", Telehit
+#EXTINF:-1 tvg-id="TELEHIT" tvg-name="" group-title="Musica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Telehit_logo_2020.png", Telehit
 http://181.78.105.146:2000/play/a091/index.m3u8
-#EXTINF:-1 tvg-id="TELEHIT MUSICA" tvg-name="" group-title="Musica" tvg-
-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Telehit_M%C3%BAsica_Plus_logo.png", TELEHIT
-PLUS
+#EXTINF:-1 tvg-id="TELEHIT MUSICA" tvg-name="" group-title="Musica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Telehit_M%C3%BAsica_Plus_logo.png", TELEHIT PLUS
 http://45.68.35.218:4001/play/a00p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Musica" tvg-logo="https://c23beafa7e.cbaul-
-cdnwnd.com/ab6ea526a12f0e77f0a6b8eea1eaa1e6/200000290-ca3decb36a/vdrla.png?ph=c23beafa7e", 268
-VideoRola
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Musica" tvg-logo="https://c23beafa7e.cbaul-cdnwnd.com/ab6ea526a12f0e77f0a6b8eea1eaa1e6/200000290-ca3decb36a/vdrla.png?ph=c23beafa7e", 268 VideoRola
 http://148.230.149.45:1021/play/a03l/index.m3u8
-#EXTINF:-1 tvg-id="TELERITMO" tvg-name="" group-title="Musica" tvg-
-logo="https://i.imgur.com/9s380Bz.png", Teleritmo
+#EXTINF:-1 tvg-id="TELERITMO" tvg-name="" group-title="Musica" tvg-logo="https://i.imgur.com/9s380Bz.png", Teleritmo
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Musica" tvg-logo="", Kiss tv
 http://194.76.186.146:8000/play/a05t/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Musica" tvg-
-logo="https://image.roku.com/developer_channels/prod/53db584f78df87025740a1e380af9038b2f37b8c6e27bf114
-6267bc2dde03833.png", Conecta TV
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Musica" tvg-logo="https://image.roku.com/developer_channels/prod/53db584f78df87025740a1e380af9038b2f37b8c6e27bf1146267bc2dde03833.png", Conecta TV
 https://stream8.mexiserver.com/conectatv/conectatv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Musica" tvg-
-logo="https://yt3.googleusercontent.com/ytc/AGIKgqOaPw2n0_gkTm2vCbg0rj1XDB2mVMamoAURc6hi=s900-c-k-
-c0x00ffffff-no-rj", TV Lobo
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Musica" tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqOaPw2n0_gkTm2vCbg0rj1XDB2mVMamoAURc6hi=s900-c-k-c0x00ffffff-no-rj", TV Lobo
 https://5ca9af4645e15.streamlock.net/lobodurango/videolobodurango/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Musica" tvg-
-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/TRACE_Latina_Logo.png", Trace latina
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Musica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/TRACE_Latina_Logo.png", Trace latina
 https://tvup-fast-amagi-trace-latina.secure2.footprint.net/playlist.m3u8
 #EXTINF:1,NATGEO WILD
 #EXTVLCOPT:http-user-agent=CCCCC
@@ -915,8 +648,7 @@ http://streamsy.online:2999/happy2024/newyear/276
 https://7.tutl24.xyz/dash/ST0f01a5ddb6d6e42.mpd
 #EXTINF:-1 tvg-id="Cinema Dinamitag" tvg-name="" group-title="Infantiles" tvg-logo="" , prueba2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://www.izzigo.tv/streamlocators/getPlayableLicenses?
-drm=WV&provisioningData=eyJwcm92aXNpb25pbmciOlt7InN5c3RlbSI6InZlcmltYXRyaXgiLCJkYXRhIjpbeyJuYW1lIjoidn
+#KODIPROP:inputstream.adaptive.license_key=https://www.izzigo.tv/streamlocators/getPlayableLicenses?drm=WV&provisioningData=eyJwcm92aXNpb25pbmciOlt7InN5c3RlbSI6InZlcmltYXRyaXgiLCJkYXRhIjpbeyJuYW1lIjoidn
 VpZCIsInZhbHVlIjoiNjU5NmExN2EtNDlkYy0zNTY2LWE3YjEtZDRkZDQ2ZmRlZjg3In1dfV19
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"
 https://live2-ott.izzigo.tv/out/u/dash/GOLDEN-HD/default.mpd
