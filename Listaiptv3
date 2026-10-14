@@ -436,7 +436,8 @@ http://181.78.105.146:8800/play/a04c
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Lista TV3" tvg-logo="", 353 RT
 http://pe.shortgod.com/colaloca21/tv6.php?id=67
 #EXTINF:-1 tvg-id="MILENIO" tvg-name="" group-title="Lista TV3" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/milenio_tv-mediano.png" , 356 Milenio
-https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8#EXTINF:-1 tvg-id="" tvg-name="" group-title="Lista TV3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Tvc_2003.png", 358 TVC Deportes
+https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Lista TV3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Tvc_2003.png", 358 TVC Deportes
 http://148.230.149.45:1021/play/a03v/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Lista TV3" tvg-logo="https://www.lyngsat.com/logo/tv/jj/justicia-tv-mx.png", 360 Judicial
 https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8
