@@ -170,7 +170,7 @@ http://streamsy.online:2999/happy2024/newyear/1695
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="CANAL 5" tvg-name="" group-title="Lista TV3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-M%C3%A9xico.png" , 105 Cinco
-https://99.domhsd.com/global/canal5mx/index.m3u8?token=8be5b2e06cf5f9d025a076437e061f4a6fe75657-42-1792036196-1791982196&ip=187.225.32.123
+http://45.171.64.30:2000/play/a038/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--https-reconnect=true
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Lista TV3" tvg-logo="https://i2.paste.pics/44ef69e0493989960cee3ec7a8a1b12e.png", 106 Multimedios
