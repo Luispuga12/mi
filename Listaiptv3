@@ -1,8 +1,7 @@
 #EXTM3U url-tvg = "https://pastebin.com/raw/EDTfejrU"
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Otros Canales" tvg-logo="", Amx noticias
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
-#EXTINF:-1 tvg-id="Antena 3" tvg-name="" group-title="Otros Canales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/1200px-
-Antena_3_%282017%29.svg.png", Antena 3
+#EXTINF:-1 tvg-id="Antena 3" tvg-name="" group-title="Otros Canales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/1200px-Antena_3_%282017%29.svg.png", Antena 3
 http://streamsy.online:2999/happy2024/newyear/564
 #EXTINF:-1 tvg-id="TRU TV" tvg-name="" group-title="Otros Canales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/TruTV_logo_2014.png", Trutv
 http://181.78.105.146:8800/play/a03y
@@ -34,8 +33,7 @@ https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8?PlaylistM3
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8?
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Otros Canales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/I.Sat_logo.svg/1280px-
-I.Sat_logo.svg.png", I-SAT 
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Otros Canales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/I.Sat_logo.svg/1280px-I.Sat_logo.svg.png", I-SAT 
 http://181.78.105.146:8800/play/a06v
 #EXTINF:-1 tvg-id="SEIS +" tvg-name="" group-title="Otros Canales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/1200px-Multimedios_Canal_Seis_Logo.svg.png", Multimedios CDMX
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
