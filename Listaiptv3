@@ -493,7 +493,7 @@ http://38.65.175.116:8000/play/a0mj/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Lista TV3" tvg-logo="https://www.lyngsat.com/logo/tv/jj/justicia-tv-mx.png", 360 Judicial
 https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8
 #EXTINF:-1 tvg-id="BITIME" tvg-name="" group-title="Lista TV3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/BitMe_logo.svg/1200px-BitMe_logo.svg.png", BITME
-https://linear-401.frequency.stream/mt/studio/401/hls/master/playlist.m3u8
+https://cablered.iptvperu.tv:1936/cablered/bitme-srt_new/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Películas" tvg-logo="https://www.fulltv.com.ar/images/tv/el-garage-3058.png", Garage tv
 https://stream1.sersat.com/hls/garagetv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Películas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/2020_Canal_DHE_logo.svg/1200px-2020_Canal_DHE_logo.svg.png", DHE HD
@@ -588,7 +588,7 @@ http://pe.shortgod.com/c16a6/tv9.php?id=360
 #EXTINF:-1 tvg-id="TLNOVELAS" tvg-name="" group-title="Lista TV3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_tlnovelas_feb2019.png/2445px-Logo_tlnovelas_feb2019.png", TELENOVELAS
 http://181.78.105.146:8800/play/a07k
 #EXTINF:-1 tvg-id="TVE" tvg-name="" group-title="Lista TV3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png", StarTve
-http://streamsy.online:2999/happy2024/newyear/1679
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_576.m3u8
 #EXTINF:-1 tvg-id="TUDN" tvg-name="" group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png", TUDN
 http://181.78.105.146:2000/play/a08j/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Lista TV3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/TyCSp.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original", TyC SPORTS
