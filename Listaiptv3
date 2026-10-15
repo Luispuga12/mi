@@ -277,77 +277,56 @@ http://38.65.175.116:8000/play/a0ch/index.m3u8
 http://38.65.175.116:8000/play/a0bx/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="LIFETIME" tvg-name="" group-title="Lista TV3" tvg-
-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/2560pxLogo_Lifetime_2020.svg.png", 242
-Lifetime
+#EXTINF:-1 tvg-id="LIFETIME" tvg-name="" group-title="Lista TV3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/2560pxLogo_Lifetime_2020.svg.png", 242 Lifetime
 http://38.65.175.116:8000/play/a0ci/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="Hola TV" tvg-name="" group-title="Lista TV3"
-tvglogo="https://upload.wikimedia.org/wikipedia/commons/c/ce/%C2%A1HOLA%21TVlogo.jpg", 246
-HOLA
+#EXTINF:-1 tvg-id="Hola TV" tvg-name="" group-title="Lista TV3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/%C2%A1HOLA%21TVlogo.jpg", 246 HOLA
 http://38.65.175.116:8000/play/a0db/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="DISTRITO COMEDIA" tvg-name="" group-title="Lista TV3"
-tvglogo="https://upload.wikimedia.org/wikipedia/commons/6/6b/DistritoComediaLOGO2018.png", 
-Distrito
-
-Comedia
+#EXTINF:-1 tvg-id="DISTRITO COMEDIA" tvg-name="" group-title="Lista TV3" tv-glogo="https://upload.wikimedia.org/wikipedia/commons/6/6b/DistritoComediaLOGO2018.png", Distrito Comedia
 http://200.115.96.61:9090/play/a07c/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Lista TV3" tvg-logo="", Telecentro -
-RD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Lista TV3" tvg-logo="", Telecentro - RD
 http://168.228.194.33:48001/play/a06g/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="BBC World News" tvg-name="" group-title="Noticias"
-tvglogo="https://e7.pngegg.com/pngimages/977/396/png-clipart-logo-of-the-bbc-brand-cctv-news-textlogo.png", BBC
-US
+#EXTINF:-1 tvg-id="BBC World News" tvg-name="" group-title="Noticias" tvg-logo="https://e7.pngegg.com/pngimages/977/396/png-clipart-logo-of-the-bbc-brand-cctv-news-textlogo.png", BBC US
 http://167.114.156.136:25461/INFINITV/ZX89NM22/166
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Noticias" tvg-logo="",
-NTN24
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Noticias" tvg-logo="", NTN24
 http://pe.shortgod.com/colaloca21/tv3.php?id=28057
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="MTV" tvg-name="" group-title="Lista TV3"
-tvglogo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MTV_Logo.svg/2560px-MTV_Logo.svg.png", MTV
+#EXTINF:-1 tvg-id="MTV" tvg-name="" group-title="Lista TV3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MTV_Logo.svg/2560px-MTV_Logo.svg.png", MTV
 http://38.65.175.116:8000/play/a0ak/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Musica"
-tvglogo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png", MTV 00s
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Musica" tv-glogo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png", MTV 00s
 http://181.78.105.146:8800/play/a066
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Musica"
-tvglogo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/1024pxMTV_Live_2021_logo.svg.png",  MTV Live
-HD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Musica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/1024pxMTV_Live_2021_logo.svg.png",  MTV Live HD
 http://clubtv.link/M105m/key4513/lista9.php?c=a01i&token=tecnotvGeneradorTV&f=.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="" tvg-name="" group-title=Musica"
-tvglogo="https://upload.wikimedia.org/wikipedia/commons/5/5e/MTV_80s_%282020%29.png",  MTV
-80s
+#EXTINF:-1 tvg-id="" tvg-name="" group-title=Musica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/MTV_80s_%282020%29.png",  MTV 80s
 http://181.78.105.146:8800/play/a048
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Musica"
-tvglogo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MTV_Hits_2017_logo.svg/2089pxMTV_Hits_2017_logo.svg.png",  MTV
-Hits
+tvglogo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MTV_Hits_2017_logo.svg/2089pxMTV_Hits_2017_logo.svg.png",  MTV Hits
 http://181.78.105.146:8800/play/a047
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Lista TV3" tvg-logo="",  Sun
-Channel
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Lista TV3" tvg-logo="",  Sun Channel
 http://181.78.105.146:8800/play/a023
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-name="" group-title="Lista TV3" tvglogo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/1200pxE%21_Logo_2012.svg.png", 248
-E!
+#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-name="" group-title="Lista TV3" tvglogo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/1200pxE%21_Logo_2012.svg.png", 248 E!
 http://38.65.175.116:8000/play/a0by/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
