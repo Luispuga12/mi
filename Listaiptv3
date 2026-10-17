@@ -305,7 +305,7 @@ http://pe.shortgod.com/colaloca21/tv3.php?id=28057
 http://38.65.175.116:8000/play/a0ak/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Musica" tv-glogo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png", MTV 00s
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Musica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png", MTV 00s
 http://181.78.105.146:8800/play/a066
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
