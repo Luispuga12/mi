@@ -317,8 +317,7 @@ http://clubtv.link/M105m/key4513/lista9.php?c=a01i&token=tecnotvGeneradorTV&f=.m
 http://181.78.105.146:8800/play/a048
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Musica"
-tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MTV_Hits_2017_logo.svg/2089pxMTV_Hits_2017_logo.svg.png",  MTV Hits
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Musica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MTV_Hits_2017_logo.svg/2089pxMTV_Hits_2017_logo.svg.png",  MTV Hits
 http://181.78.105.146:8800/play/a047
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
