@@ -40,7 +40,7 @@ https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8?uid=tvhGwX
 #EXTINF:-1 tvg-id="TELEMUNDO" tvg-name="" group-title="Otros Canales" tvg-logo="https://raw.githubusercontent.com/Luispuga12/mi/main/logos/telemundo.png", TELEMUNDO
 http://38.65.175.116:8000/play/a0mg/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Otros Canales" tvg-logo="https://raw.githubusercontent.com/Luispuga12/mi/main/logos/kanal_d_drama.png", Kanal D Drama
-http://148.230.149.45:1021/play/a0a4/index.m3u8
+http://200.57.28.141:8540/play/a04y
 #EXTINF:-1 tvg-id="NUEVE" tvg-name="" group-title="Otros Canales" tvg-logo="https://raw.githubusercontent.com/Luispuga12/mi/main/logos/nueve.png", Nueve 
 https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/chunklist_w1736945143.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Otros Canales" tvg-logo="https://raw.githubusercontent.com/Luispuga12/mi/main/logos/tv_mas.png", TV Mas
@@ -50,7 +50,7 @@ https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Otros Canales" tvg-logo="https://raw.githubusercontent.com/Luispuga12/mi/main/logos/multimedios_mty.png", MULTIMEDIOS MTY
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?uid=tvhGwXJZXYuPiYWrmIOggI8oIfKXCVTm&sid=GNYzZoFeb4VrCwta6W0rRNWgopHn7NWd&pid=jyggItXYv416ZzoZ3opmEwcppMzA8Uz0&pid_dvr=uEmsPq3UKzqevXnqbqee3RXw2lvW5Q1Z&an=multimedios-radio-app-web&at=web-app&av=v7.0.127&ref=https%3A%2F%2Fwww.multimediostv.com%2F&res=1018x570&without_cookies=false&listenerid=&dnt=true&adInsertionSessionId=6cb86b32-b943-4fc2-ba42-89762c377df2&CMCD=cid%3D%2257b4dbf5dbbfc8f16bb63ce1%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22jyggItXYv416ZzoZ3opmEwcppMzA8Uz0%22%2Csu
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Otros Canales" tvg-logo="https://raw.githubusercontent.com/Luispuga12/mi/main/logos/tve.png", Tve 
-http://pe.shortgod.com/colaloca21/tv7.php?id=26721
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_576.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Otros Canales" tvg-logo="https://raw.githubusercontent.com/Luispuga12/mi/main/logos/caracol.png", Caracol
 http://45.68.35.218:4001/play/a01y/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Otros Canales" tvg-logo="https://raw.githubusercontent.com/Luispuga12/mi/main/logos/galavisión.png", Galavisión
@@ -96,7 +96,7 @@ http://pe.shortgod.com/colaloca21/tv5.php?id=14156
 #EXTINF:-1 tvg-id="El Financiero Bloomberg" tvg-name="" group-title="Otros Canales" tvg-logo="https://raw.githubusercontent.com/Luispuga12/mi/main/logos/bloomberg.png", Bloomberg
 http://streamsy.online:2999/happy2024/newyear/863
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Otros Canales" tvg-logo="https://raw.githubusercontent.com/Luispuga12/mi/main/logos/univision.png", Univision
-http://181.78.105.146:8800/play/a05d
+http://200.57.28.141:8540/play/a06e
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="COMEDY CENTRAL" tvg-name="" group-title="Lista TV3" tvg-logo="https://raw.githubusercontent.com/Luispuga12/mi/main/logos/21_-_252_comedy_central.png", 21 - 252 COMEDY CENTRAL
@@ -286,10 +286,10 @@ http://38.65.175.116:8000/play/a0db/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="DISTRITO COMEDIA" tvg-name="" group-title="Lista TV3" tvg-logo="https://raw.githubusercontent.com/Luispuga12/mi/main/logos/distrito_comedia.png", Distrito Comedia
-http://200.115.96.61:9090/play/a07c/index.m3u8
+http://200.57.28.141:8540/play/a0fi
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Lista TV3" tvg-logo="https://raw.githubusercontent.com/Luispuga12/mi/main/logos/telecentro_-_rd.png", Telecentro - RD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Lista TV3" tvg-logo="https://raw.githubusercontent.com/Luispuga12/mi/main/logos/telecentro_-_rd.png", Telecentro
 http://168.228.194.33:48001/play/a06g/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
@@ -334,11 +334,11 @@ http://181.78.105.146:8800/play/a043
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Lista TV3" tvg-logo="https://raw.githubusercontent.com/Luispuga12/mi/main/logos/tcm.png", TCM
-http://streamsy.online:2999/happy2024/newyear/88
+http://200.57.28.141:8540/play/a03r
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="UNICABLE" tvg-name="" group-title="Lista TV3" tvg-logo="https://raw.githubusercontent.com/Luispuga12/mi/main/logos/unicable.png", UNICABLE
-http://45.68.35.218:4001/play/a014/index.m3u8
+http://200.57.28.141:8540/play/a0ms
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Musica" tvg-logo="https://raw.githubusercontent.com/Luispuga12/mi/main/logos/266_mejortv.png", 266 MejorTV
@@ -346,7 +346,7 @@ http://38.65.175.116:8000/play/a0ls/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Lista TV3" tvg-logo="https://raw.githubusercontent.com/Luispuga12/mi/main/logos/280_oncekids.png", 280 OnceKids
-http://streamsy.online:2999/happy2024/newyear/1705
+http://200.57.28.141:8540/play/a0f0
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="DISNEY JR" tvg-name="" group-title="Lista TV3" tvg-logo="https://raw.githubusercontent.com/Luispuga12/mi/main/logos/282_disney_jr.png", 282 Disney JR
@@ -382,7 +382,7 @@ http://pe.shortgod.com/colaloca21/tv3.php?id=27985
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Lista TV3" tvg-logo="https://raw.githubusercontent.com/Luispuga12/mi/main/logos/discovery_science.png", DISCOVERY SCIENCE
-http://181.78.23.162:8000/play/a058/index.m3u8
+http://200.57.28.141:8540/play/a0lc
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Lista TV3" tvg-logo="https://raw.githubusercontent.com/Luispuga12/mi/main/logos/discovery_turbo.png", DISCOVERY TURBO
@@ -394,7 +394,7 @@ http://200.108.187.214:8000/play/a0nm/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Lista TV3" tvg-logo="https://raw.githubusercontent.com/Luispuga12/mi/main/logos/discovery_world_hd.png", Discovery World HD
-http://streamsy.online:2999/happy2024/newyear/59
+http://200.57.28.141:8540/play/a06c
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Lista TV3" tvg-logo="https://raw.githubusercontent.com/Luispuga12/mi/main/logos/animal_planet.png", ANIMAL Planet
@@ -466,7 +466,7 @@ http://streamsy.online:2999/happy2024/newyear/90
 #EXTINF:-1 tvg-id="FOX SPORTS" tvg-name="" group-title="Deporte" tvg-logo="https://raw.githubusercontent.com/Luispuga12/mi/main/logos/fox_sports.png", FOX SPORTS
 http://streamsy.online:2999/happy2024/newyear/92
 #EXTINF:-1 tvg-id="FOX SPORTS 2" tvg-name="" group-title="Deporte" tvg-logo="https://raw.githubusercontent.com/Luispuga12/mi/main/logos/fox_sports_2_hd.png", FOX SPORTS 2 HD
-http://streamsy.online:2999/happy2024/newyear/92
+http://200.57.28.141:8540/play/a0k2
 #EXTINF:-1 tvg-id="FOX SPORTS 3" tvg-name="" group-title="Deporte" tvg-logo="https://raw.githubusercontent.com/Luispuga12/mi/main/logos/fox_sports_3_hd.png", FOX SPORTS 3 HD
 http://181.78.105.146:8800/play/a056
 #EXTINF:-1 tvg-id="Golf Channel" tvg-name="" group-title="Deporte" tvg-logo="https://raw.githubusercontent.com/Luispuga12/mi/main/logos/golf.png", Golf
@@ -520,24 +520,24 @@ https://60ed5b6d0df78.streamlock.net:1936/canal28/canal28/playlist.m3u8
 #EXTINF:-1 tvg-id="UNIVERSAL CINEMA" tvg-name="" group-title="Películas" tvg-logo="https://raw.githubusercontent.com/Luispuga12/mi/main/logos/universal_cinema.png", UNIVERSAL CINEMA
 http://streamsy.online:2999/happy2024/newyear/1662
 #EXTINF:-1 tvg-id="UNIVERSAL COMEDY" tvg-name="" group-title="Lista TV3" tvg-logo="https://raw.githubusercontent.com/Luispuga12/mi/main/logos/universal_comedy_hd.png", UNIVERSAL COMEDY HD
-http://181.78.105.146:8800/play/a06b
+http://200.57.28.141:8540/play/a055
 #EXTINF:-1 tvg-id="UNIVERSAL CRIME" tvg-name="" group-title="Lista TV3" tvg-logo="https://raw.githubusercontent.com/Luispuga12/mi/main/logos/universal_crime_hd.png", UNIVERSAL CRIME HD
-http://streamsy.online:2999/happy2024/newyear/1663
+http://200.57.28.141:8540/play/a054
 #EXTINF:-1 tvg-id="UNIVERSAL REALITY" tvg-name="" group-title="Lista TV3" tvg-logo="https://raw.githubusercontent.com/Luispuga12/mi/main/logos/universal_reality_hd.png", UNIVERSAL REALITY HD
-http://streamsy.online:2999/happy2024/newyear/1664
+http://200.57.28.141:8540/play/a053
 #EXTINF:-1 tvg-id="UNIVERSAL PREMIERE" tvg-name="" group-title="Películas" tvg-logo="https://raw.githubusercontent.com/Luispuga12/mi/main/logos/universal_premiere_hd.png", UNIVERSAL PREMIERE HD
-http://streamsy.online:2999/happy2024/newyear/1661
+http://200.57.28.141:8540/play/a051
 #EXTINF:-1 tvg-id="GOLDEN" tvg-name="" group-title="Películas" tvg-logo="https://raw.githubusercontent.com/Luispuga12/mi/main/logos/golden.png", GOLDEN
-http://181.78.105.146:8800/play/a02b
+http://200.57.28.141:8540/play/a03q
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Películas" tvg-logo="https://raw.githubusercontent.com/Luispuga12/mi/main/logos/golden_plus.png", GOLDEN PLUS
 #EXTVLCOPT:http-user-ag=CCCCC
 https://vivo.lamtv.tv:8081/a/0068/playlist.m3u8
 #EXTINF:-1 tvg-id="GOLDEN EDGE" tvg-name="" group-title="Películas" tvg-logo="https://raw.githubusercontent.com/Luispuga12/mi/main/logos/golden_edge.png", GOLDEN EDGE
 http://45.68.35.218:4001/play/a00i/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Películas" tvg-logo="https://raw.githubusercontent.com/Luispuga12/mi/main/logos/golden_premier.png", GOLDEN PREMIER
-http://streamsy.online:2999/happy2024/newyear/83
+http://200.57.28.141:8540/play/a0ln
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Películas" tvg-logo="https://raw.githubusercontent.com/Luispuga12/mi/main/logos/golden_premier_2.png", GOLDEN Premier 2
-http://168.228.194.33:48001/play/a00z/index.m3u8
+http://200.57.28.141:8540/play/a0lo
 #EXTINF:-1 tvg-id="HBO MUNDI" tvg-name="" group-title="Películas" tvg-logo="https://raw.githubusercontent.com/Luispuga12/mi/main/logos/hbo_mundi.png", HBO MUNDI
 http://38.65.175.116:8000/play/a0jj/index.m3u8
 #EXTINF:-1 tvg-id="HBO" tvg-name="" group-title="Películas" tvg-logo="https://raw.githubusercontent.com/Luispuga12/mi/main/logos/hbo_hd.png", HBO HD 
@@ -557,9 +557,9 @@ http://38.65.175.116:8000/play/a0ji/index.m3u8
 #EXTINF:-1 tvg-id="STAR CHANNEL" tvg-name="" group-title="Películas" tvg-logo="https://raw.githubusercontent.com/Luispuga12/mi/main/logos/star_ch.png", STAR CH 
 http://38.65.175.116:8000/play/a08v/index.m3u8
 #EXTINF:-1 tvg-id="Sony Movies" tvg-name="" group-title="Películas" tvg-logo="https://raw.githubusercontent.com/Luispuga12/mi/main/logos/sony_movies_hd.png", Sony Movies HD
-http://181.78.105.146:8800/play/a04w
+http://200.57.28.141:8540/play/a02l
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Películas" tvg-logo="https://raw.githubusercontent.com/Luispuga12/mi/main/logos/pasiones_hd.png", Pasiones HD
-http://181.78.105.146:8800/play/a05c
+http://200.57.28.141:8540/play/a06d
 #EXTINF:-1 tvg-id="PARAMOUNT" tvg-name="" group-title="Películas" tvg-logo="https://raw.githubusercontent.com/Luispuga12/mi/main/logos/388_paramount.png", 388 Paramount
 http://181.78.105.146:2000/play/a01s/index.m3u8
 #EXTINF:-1 tvg-id="AMC" tvg-name="" group-title="Películas" tvg-logo="https://raw.githubusercontent.com/Luispuga12/mi/main/logos/amc.png", AMC
@@ -569,7 +569,7 @@ http://38.65.175.116:8000/play/a093/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="tv3" tvg-logo="https://raw.githubusercontent.com/Luispuga12/mi/main/logos/wow_tv.png", WOW tv
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Películas" tvg-logo="https://raw.githubusercontent.com/Luispuga12/mi/main/logos/cine_premium_hd.png", Cine Premium HD
-http://177.234.198.43:8000/play/a01d/index.m3u8
+http://200.57.28.141:8540/play/a0k8
 #EXTINF:-1 tvg-id="DE PELICULA" tvg-name="" group-title="Películas" tvg-logo="https://raw.githubusercontent.com/Luispuga12/mi/main/logos/de_pelicula.png", DE PELICULA
 http://45.68.35.218:4001/play/a00e/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Películas" tvg-logo="https://raw.githubusercontent.com/Luispuga12/mi/main/logos/de_pelicula_plus.png", DE PELICULA PLUS
@@ -587,7 +587,7 @@ http://pe.shortgod.com/c16a6/tv9.php?id=360
 #EXTINF:-1 tvg-id="TLNOVELAS" tvg-name="" group-title="Lista TV3" tvg-logo="https://raw.githubusercontent.com/Luispuga12/mi/main/logos/telenovelas.png", TELENOVELAS
 http://181.78.105.146:8800/play/a07k
 #EXTINF:-1 tvg-id="TVE" tvg-name="" group-title="Lista TV3" tvg-logo="https://raw.githubusercontent.com/Luispuga12/mi/main/logos/startve.png", StarTve
-https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_576.m3u8
+http://200.57.28.141:8540/play/a02o
 #EXTINF:-1 tvg-id="TUDN" tvg-name="" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/Luispuga12/mi/main/logos/tudn.png", TUDN
 http://181.78.105.146:2000/play/a08j/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Lista TV3" tvg-logo="https://raw.githubusercontent.com/Luispuga12/mi/main/logos/tyc_sports.png", TyC SPORTS
