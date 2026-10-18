@@ -43,7 +43,7 @@ http://38.65.175.116:8000/play/a0mg/index.m3u8
 http://148.230.149.45:1021/play/a0a4/index.m3u8
 #EXTINF:-1 tvg-id="NUEVE" tvg-name="" group-title="Otros Canales" tvg-logo="https://raw.githubusercontent.com/Luispuga12/mi/main/logos/nueve.png", Nueve 
 https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/chunklist_w1736945143.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Otros Canales" tvg-logo="https://raw.githubusercontent.com/Luispuga12/mi/main/logos/tv_mas.jpg", TV Mas
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Otros Canales" tvg-logo="https://raw.githubusercontent.com/Luispuga12/mi/main/logos/tv_mas.png", TV Mas
 https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
 #EXTINF:-1 tvg-id="AZTECA 7" tvg-name="" group-title="Otros Canales" tvg-logo="https://raw.githubusercontent.com/Luispuga12/mi/main/logos/az_7.png", AZ 7
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
@@ -67,7 +67,7 @@ https://6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8
 https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Otros Canales" tvg-logo="https://raw.githubusercontent.com/Luispuga12/mi/main/logos/televida_rd.png", Televida RD
 http://168.228.194.33:48001/play/a02s/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Otros Canales" tvg-logo="https://raw.githubusercontent.com/Luispuga12/mi/main/logos/teleunion_-_rd.jpg", Teleunion - RD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Otros Canales" tvg-logo="https://raw.githubusercontent.com/Luispuga12/mi/main/logos/teleunion_-_rd.png", Teleunion - RD
 http://168.228.194.33:48001/play/a06h/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Otros Canales" tvg-logo="https://raw.githubusercontent.com/Luispuga12/mi/main/logos/telesistema.png", Telesistema
 http://168.228.194.33:48001/play/a04o/index.m3u8
@@ -156,7 +156,7 @@ http://181.78.23.162:8000/play/a0bu/index.m3u8
 http://148.230.149.45:1021/play/a009/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Lista TV3" tvg-logo="https://raw.githubusercontent.com/Luispuga12/mi/main/logos/baby_first.jpg", Baby First
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Lista TV3" tvg-logo="https://raw.githubusercontent.com/Luispuga12/mi/main/logos/baby_first.png", Baby First
 http://38.65.175.116:8000/play/a0kb/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
@@ -261,7 +261,7 @@ http://200.108.187.214:8000/play/a08x/index.m3u8
 http://38.65.175.116:8000/play/a0cg/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--https-reconnect=true
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Lista TV3" tvg-logo="https://raw.githubusercontent.com/Luispuga12/mi/main/logos/15tv.jpg",15tv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Lista TV3" tvg-logo="https://raw.githubusercontent.com/Luispuga12/mi/main/logos/15tv.png",15tv
 https://servilive.com:3380/live/v3n6thy7glive.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
@@ -281,7 +281,7 @@ http://38.65.175.116:8000/play/a0bx/index.m3u8
 http://38.65.175.116:8000/play/a0ci/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="Hola TV" tvg-name="" group-title="Lista TV3" tvg-logo="https://raw.githubusercontent.com/Luispuga12/mi/main/logos/246_hola.jpg", 246 HOLA
+#EXTINF:-1 tvg-id="Hola TV" tvg-name="" group-title="Lista TV3" tvg-logo="https://raw.githubusercontent.com/Luispuga12/mi/main/logos/246_hola.png", 246 HOLA
 http://38.65.175.116:8000/play/a0db/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
@@ -441,7 +441,7 @@ http://38.65.175.116:8000/play/a0dj/index.m3u8
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/Luispuga12/mi/main/logos/la_dodgers.jpg", LA Dodgers
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/Luispuga12/mi/main/logos/la_dodgers.png", LA Dodgers
 http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/36277
 ##EXTVLCOPT:network-caching=2000
 #EXTVLCOPT--http-reconnect=true
@@ -560,13 +560,13 @@ http://38.65.175.116:8000/play/a08v/index.m3u8
 http://181.78.105.146:8800/play/a04w
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Películas" tvg-logo="https://raw.githubusercontent.com/Luispuga12/mi/main/logos/pasiones_hd.png", Pasiones HD
 http://181.78.105.146:8800/play/a05c
-#EXTINF:-1 tvg-id="PARAMOUNT" tvg-name="" group-title="Películas" tvg-logo="https://raw.githubusercontent.com/Luispuga12/mi/main/logos/388_paramount.jpg", 388 Paramount
+#EXTINF:-1 tvg-id="PARAMOUNT" tvg-name="" group-title="Películas" tvg-logo="https://raw.githubusercontent.com/Luispuga12/mi/main/logos/388_paramount.png", 388 Paramount
 http://181.78.105.146:2000/play/a01s/index.m3u8
 #EXTINF:-1 tvg-id="AMC" tvg-name="" group-title="Películas" tvg-logo="https://raw.githubusercontent.com/Luispuga12/mi/main/logos/amc.png", AMC
 http://38.65.175.116:8000/play/a0k8/index.m3u8
 #EXTINF:-1 tvg-id="CINEMAX" tvg-name="" group-title="Películas" tvg-logo="https://raw.githubusercontent.com/Luispuga12/mi/main/logos/cinemax.png", CINEMAX
 http://38.65.175.116:8000/play/a093/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="tv3" tvg-logo="https://raw.githubusercontent.com/Luispuga12/mi/main/logos/wow_tv.jpg", WOW tv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="tv3" tvg-logo="https://raw.githubusercontent.com/Luispuga12/mi/main/logos/wow_tv.png", WOW tv
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Películas" tvg-logo="", Cine Premium HD
 http://177.234.198.43:8000/play/a01d/index.m3u8
