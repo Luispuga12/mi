@@ -289,7 +289,7 @@ http://38.65.175.116:8000/play/a0db/index.m3u8
 http://200.115.96.61:9090/play/a07c/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Lista TV3" tvg-logo="https://raw.githubusercontent.com/Luispuga12/mi/main/logos/telecentro_-_rd.jpg", Telecentro - RD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Lista TV3" tvg-logo="https://raw.githubusercontent.com/Luispuga12/mi/main/logos/telecentro_-_rd.png", Telecentro - RD
 http://168.228.194.33:48001/play/a06g/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
