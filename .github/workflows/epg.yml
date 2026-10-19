@@ -12,10 +12,10 @@ jobs:
 
     steps:
     - name: Descargar el código del repositorio
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4
 
     - name: Configurar Python
-      uses: actions/python-setup@v4
+      uses: actions/setup-python@v4
       with:
         python-version: '3.10'
 
