@@ -4,7 +4,7 @@ on:
   schedule:
     # Se ejecuta automáticamente todos los días a las 06:00 UTC (12:00 AM hora México)
     - cron: '0 6 * * *'
-  workflow_dispatch: # Permite ejecutar el script manualmente desde GitHub cuando quieras
+  workflow_dispatch: # Permite ejecutar el script manualmente desde la pestaña Actions
 
 jobs:
   build:
@@ -31,6 +31,6 @@ jobs:
       run: |
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
-        git add -A
+        git add --all
         git commit -m "Auto-update: EPG generado automáticamente" || echo "No hay cambios para guardar"
         git push
