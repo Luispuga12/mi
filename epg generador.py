@@ -186,7 +186,7 @@ def generar_epg():
 
     tree = ET.ElementTree(tv)
     tree.write(ARCHIVO_SALIDA, encoding="utf-8", xml_declaration=True)
-    print(f"\n[OK] ¡Generación finalizada! Se cargaron {programas_totales} programas abarcando {DIAS_A_EXTRAER} días para {canales_con_guia} canales.")
+    print(f"\n[OK] ¡Archivo {ARCHIVO_SALIDA} generado con éxito!")
 
 if __name__ == "__main__":
     generar_epg()
