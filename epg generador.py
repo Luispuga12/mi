@@ -7,7 +7,7 @@ from bs4 import BeautifulSoup
 
 print("=== INICIANDO GENERADOR DE EPG MULTI-DÍA (SEMANAL) ===")
 
-ARCHIVO_M3U = "lista.m3u"
+ARCHIVO_M3U = "Listaiptv3"
 ARCHIVO_SALIDA = "epg.xml"
 
 # Cantidad de días a extraer a partir de hoy (ej. 3 o 7)
