@@ -4,7 +4,11 @@ on:
   schedule:
     # Se ejecuta automáticamente todos los días a las 06:00 UTC (12:00 AM hora México)
     - cron: '0 6 * * *'
-  workflow_dispatch: # Permite ejecutar el script manualmente desde la pestaña Actions
+  push:
+    # Se ejecuta automáticamente CADA VEZ que hagas un cambio en la lista
+    paths:
+      - 'Listaiptv3'
+  workflow_dispatch: # Permite ejecutar el script manualmente desde la pestaña Actions cuando quieras
 
 jobs:
   build:
@@ -33,5 +37,5 @@ jobs:
         git config --local user.name "github-actions[bot]"
         git status
         git add epg.xml || true
-        git commit -m "Auto-update: EPG generado automáticamente" || echo "No hay cambios para guardar"
+        git commit -m "Auto-update: EPG actualizado tras cambio en lista" || echo "No hay cambios para guardar"
         git push
