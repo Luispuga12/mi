@@ -22,19 +22,24 @@ HEADERS = {
 MEXICO_TZ = timezone(timedelta(hours=-6))
 
 def convertir_a_formato_xmltv(hora_str, fecha_objetivo):
-    """Convierte texto de hora de GatoTV al formato XMLTV con la fecha exacta ingresada."""
+    """Convierte texto de hora de GatoTV al formato XMLTV asegurando la hora local de México (-0600)."""
     try:
         hora_str = hora_str.upper().replace(".", "").strip()
         dt_hora = datetime.strptime(hora_str, "%I:%M %p")
-        dt_completo = dt_hora.replace(
-            year=fecha_objetivo.year, 
-            month=fecha_objetivo.month, 
-            day=fecha_objetivo.day, 
-            tzinfo=MEXICO_TZ
+        
+        # Combinamos la fecha objetivo con la hora extraída de forma limpia
+        dt_completo = datetime(
+            year=fecha_objetivo.year,
+            month=fecha_objetivo.month,
+            day=fecha_objetivo.day,
+            hour=dt_hora.hour,
+            minute=dt_hora.minute,
+            second=0
         )
-        return dt_completo.strftime("%Y%m%d%H%M00 -0600")
+        # Forzamos estrictamente el formato XMLTV con el sufijo de México (-0600)
+        return dt_completo.strftime("%Y%m%d%H%M%S") + " -0600"
     except Exception:
-        return fecha_objetivo.strftime("%Y%m%d%H%M00 -0600")
+        return fecha_objetivo.strftime("%Y%m%d%H%M%S") + " -0600"
 
 def extraer_programacion_dia(slug, fecha_obj):
     """Extrae los programas de un canal para una fecha específica."""
@@ -129,7 +134,7 @@ def generar_epg():
                     "tvg_id": tvg_id
                 })
 
-    print(f"   [+] Canales totales leídos en el M3U: {len(canales_a_procesar)}")
+    print(f"    [+] Canales totales leídos en el M3U: {len(canales_a_procesar)}")
 
     tv = ET.Element("tv", {
         "generator-info-name": "Tvg-Id Multi-Day EPG Generator",
