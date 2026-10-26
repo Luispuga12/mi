@@ -13,6 +13,11 @@ ARCHIVO_SALIDA = "epg.xml"
 # Cantidad de días a extraer a partir de hoy (ej. 3 o 7)
 DIAS_A_EXTRAER = 7
 
+# CONFIGURACIÓN DE DESFASE HORARIO: 
+# Si en Kodi los programas van adelantados o atrasados, ajusta este valor.
+# Ejemplos: 2 para sumar 2 horas, -2 para restar 2 horas, o 0 si ya cuadra.
+OFFSET_HORAS = 2 
+
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
     "Accept-Language": "es-MX,es;q=0.9"
@@ -22,12 +27,12 @@ HEADERS = {
 MEXICO_TZ = timezone(timedelta(hours=-6))
 
 def convertir_a_formato_xmltv(hora_str, fecha_objetivo):
-    """Convierte texto de hora de GatoTV al formato XMLTV asegurando la hora local de México (-0600)."""
+    """Convierte texto de hora de GatoTV al formato XMLTV aplicando el offset de corrección."""
     try:
         hora_str = hora_str.upper().replace(".", "").strip()
         dt_hora = datetime.strptime(hora_str, "%I:%M %p")
         
-        # Combinamos la fecha objetivo con la hora extraída de forma limpia
+        # Combinamos la fecha objetivo con la hora extraída
         dt_completo = datetime(
             year=fecha_objetivo.year,
             month=fecha_objetivo.month,
@@ -36,6 +41,10 @@ def convertir_a_formato_xmltv(hora_str, fecha_objetivo):
             minute=dt_hora.minute,
             second=0
         )
+        
+        # APLICAMOS EL OFFSET DE HORAS PARA CORREGIR EL DESFASE EN KODI
+        dt_completo = dt_completo + timedelta(hours=OFFSET_HORAS)
+
         # Forzamos estrictamente el formato XMLTV con el sufijo de México (-0600)
         return dt_completo.strftime("%Y%m%d%H%M%S") + " -0600"
     except Exception:
@@ -161,7 +170,6 @@ def generar_epg():
             slug = re.sub(r'[^a-z0-9_]', '', slug)
             
             eventos_canal = []
-            # Recorrer cada uno de los días configurados
             for i in range(DIAS_A_EXTRAER):
                 fecha_consulta = hoy + timedelta(days=i)
                 evs_dia = extraer_programacion_dia(slug, fecha_consulta)
@@ -191,7 +199,7 @@ def generar_epg():
 
     tree = ET.ElementTree(tv)
     tree.write(ARCHIVO_SALIDA, encoding="utf-8", xml_declaration=True)
-    print(f"\n[OK] ¡Archivo {ARCHIVO_SALIDA} generado con éxito!")
+    print(f"\n[OK] ¡Archivo {ARCHIVO_SALIDA} generado con éxito con un desfase de {OFFSET_HORAS} hora(s) aplicada(s)!")
 
 if __name__ == "__main__":
     generar_epg()
