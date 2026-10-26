@@ -16,7 +16,7 @@ DIAS_A_EXTRAER = 7
 # CONFIGURACIÓN DE DESFASE HORARIO: 
 # Si en Kodi los programas van adelantados o atrasados, ajusta este valor.
 # Ejemplos: 2 para sumar 2 horas, -2 para restar 2 horas, o 0 si ya cuadra.
-OFFSET_HORAS = 2 
+OFFSET_HORAS = 0 
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
