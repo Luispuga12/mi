@@ -13,11 +13,6 @@ ARCHIVO_SALIDA = "epg.xml"
 # Cantidad de días a extraer a partir de hoy (ej. 3 o 7)
 DIAS_A_EXTRAER = 7
 
-# CONFIGURACIÓN DE DESFASE HORARIO: 
-# Si en Kodi los programas van adelantados o atrasados, ajusta este valor.
-# Ejemplos: 2 para sumar 2 horas, -2 para restar 2 horas, o 0 si ya cuadra.
-OFFSET_HORAS = 0 
-
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
     "Accept-Language": "es-MX,es;q=0.9"
@@ -27,12 +22,12 @@ HEADERS = {
 MEXICO_TZ = timezone(timedelta(hours=-6))
 
 def convertir_a_formato_xmltv(hora_str, fecha_objetivo):
-    """Convierte texto de hora de GatoTV al formato XMLTV aplicando el offset de corrección."""
+    """Convierte texto de hora de GatoTV al formato XMLTV asegurando la hora local de México (-0600)."""
     try:
         hora_str = hora_str.upper().replace(".", "").strip()
         dt_hora = datetime.strptime(hora_str, "%I:%M %p")
         
-        # Combinamos la fecha objetivo con la hora extraída
+        # Combinamos la fecha objetivo con la hora extraída de forma limpia
         dt_completo = datetime(
             year=fecha_objetivo.year,
             month=fecha_objetivo.month,
@@ -41,17 +36,13 @@ def convertir_a_formato_xmltv(hora_str, fecha_objetivo):
             minute=dt_hora.minute,
             second=0
         )
-        
-        # APLICAMOS EL OFFSET DE HORAS PARA CORREGIR EL DESFASE EN KODI
-        dt_completo = dt_completo + timedelta(hours=OFFSET_HORAS)
-
         # Forzamos estrictamente el formato XMLTV con el sufijo de México (-0600)
         return dt_completo.strftime("%Y%m%d%H%M%S") + " -0600"
     except Exception:
         return fecha_objetivo.strftime("%Y%m%d%H%M%S") + " -0600"
 
 def extraer_programacion_dia(slug, fecha_obj):
-    """Extrae los programas de un canal para una fecha específica."""
+    """Extrae los programas de un canal detectando automáticamente el cambio de día por medianoche."""
     fecha_str = fecha_obj.strftime("%Y-%m-%d")
     
     # El día de hoy usa la URL base; los días futuros usan /YYYY-MM-DD
@@ -68,6 +59,10 @@ def extraer_programacion_dia(slug, fecha_obj):
         if response.status_code == 200:
             soup = BeautifulSoup(response.text, 'html.parser')
             tabla = soup.find('table', class_='tbl_planificacion') or soup
+            
+            # Variables para rastrear el cambio de día automático en base a la secuencia horaria
+            current_date_offset = 0
+            last_minutes = -1
             
             for tr in tabla.find_all('tr'):
                 tds = tr.find_all('td')
@@ -93,12 +88,26 @@ def extraer_programacion_dia(slug, fecha_obj):
                     ):
                         continue
 
-                    start_time = convertir_a_formato_xmltv(hora_inicio_raw, fecha_obj)
+                    # Convertir hora de inicio a minutos del día para rastrear la secuencia
+                    dt_temp_start = datetime.strptime(hora_inicio_raw.upper().replace(".", "").strip(), "%I:%M %p")
+                    total_minutes = dt_temp_start.hour * 60 + dt_temp_start.minute
                     
-                    # Si el programa termina después de la medianoche, se ajusta al día siguiente
-                    fecha_fin_obj = fecha_obj
-                    if "AM" in hora_fin_raw.upper() and "PM" in hora_inicio_raw.upper():
-                        fecha_fin_obj = fecha_obj + timedelta(days=1)
+                    # Si las horas retroceden bruscamente (ej: de noche a la 1 AM), cruzamos medianoche de forma automática
+                    if last_minutes != -1 and total_minutes < last_minutes and last_minutes > 1200:
+                        current_date_offset += 1
+                    
+                    last_minutes = total_minutes
+                    fecha_prog_obj = fecha_obj + timedelta(days=current_date_offset)
+                    
+                    start_time = convertir_a_formato_xmltv(hora_inicio_raw, fecha_prog_obj)
+                    
+                    # Si el programa termina después de la medianoche
+                    fecha_fin_obj = fecha_prog_obj
+                    dt_temp_end = datetime.strptime(hora_fin_raw.upper().replace(".", "").strip(), "%I:%M %p")
+                    end_minutes = dt_temp_end.hour * 60 + dt_temp_end.minute
+                    
+                    if end_minutes < total_minutes:
+                        fecha_fin_obj = fecha_prog_obj + timedelta(days=1)
                         
                     stop_time = convertir_a_formato_xmltv(hora_fin_raw, fecha_fin_obj)
                     
@@ -170,6 +179,7 @@ def generar_epg():
             slug = re.sub(r'[^a-z0-9_]', '', slug)
             
             eventos_canal = []
+            # Recorrer cada uno de los días configurados
             for i in range(DIAS_A_EXTRAER):
                 fecha_consulta = hoy + timedelta(days=i)
                 evs_dia = extraer_programacion_dia(slug, fecha_consulta)
@@ -199,7 +209,7 @@ def generar_epg():
 
     tree = ET.ElementTree(tv)
     tree.write(ARCHIVO_SALIDA, encoding="utf-8", xml_declaration=True)
-    print(f"\n[OK] ¡Archivo {ARCHIVO_SALIDA} generado con éxito con un desfase de {OFFSET_HORAS} hora(s) aplicada(s)!")
+    print(f"\n[OK] ¡Archivo {ARCHIVO_SALIDA} generado con éxito!")
 
 if __name__ == "__main__":
     generar_epg()
