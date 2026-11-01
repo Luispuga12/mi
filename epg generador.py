@@ -22,7 +22,7 @@ HEADERS = {
 MEXICO_TZ = timezone(timedelta(hours=-6))
 
 def convertir_a_formato_xmltv(hora_str, fecha_objetivo):
-    """Convierte texto de hora de GatoTV al formato XMLTV asegurando la hora local de México (-0600)."""
+    """Convierte texto de hora de GatoTV al formato XMLTV aplicando la corrección automática de -1 hora."""
     try:
         hora_str = hora_str.upper().replace(".", "").strip()
         dt_hora = datetime.strptime(hora_str, "%I:%M %p")
@@ -36,6 +36,10 @@ def convertir_a_formato_xmltv(hora_str, fecha_objetivo):
             minute=dt_hora.minute,
             second=0
         )
+        
+        # CORRECCIÓN AUTOMÁTICA: Restamos 1 hora para compensar el desfase nativo
+        dt_completo = dt_completo + timedelta(hours=-1)
+
         # Forzamos estrictamente el formato XMLTV con el sufijo de México (-0600)
         return dt_completo.strftime("%Y%m%d%H%M%S") + " -0600"
     except Exception:
@@ -179,7 +183,6 @@ def generar_epg():
             slug = re.sub(r'[^a-z0-9_]', '', slug)
             
             eventos_canal = []
-            # Recorrer cada uno de los días configurados
             for i in range(DIAS_A_EXTRAER):
                 fecha_consulta = hoy + timedelta(days=i)
                 evs_dia = extraer_programacion_dia(slug, fecha_consulta)
